@@ -152,38 +152,74 @@
 ### Conference Publications
 
 *	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", arXiv:1810.04826 [*eess.AS*].
+[[PDF](https://arxiv.org/pdf/1810.04826.pdf)]
+[[samples](https://google.github.io/speaker-id/publications/VoiceFilter/)]
 
 *	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", arXiv:1810.04719 [*eess.AS*].
+[[PDF](https://arxiv.org/pdf/1810.04719.pdf)]
+[[code](https://github.com/google/uis-rnn)]
 
 *	Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, **Quan Wang**, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, "Sample Efficient Adaptive Text-to-Speech", arXiv: 1809.10460 [*cs.LG*].
+[[PDF](https://arxiv.org/pdf/1809.10460.pdf)]
+[[samples](https://sample-efficient-adaptive-tts.github.io/demo/)]
 
 *	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", arXiv: 1806.04558 [*cs.CL*].
+[[PDF](https://arxiv.org/pdf/1806.04558.pdf)]
+[[samples](https://google.github.io/tacotron/publications/speaker_adaptation/)]
 
 *	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
+[[PDF](https://arxiv.org/pdf/1710.10468.pdf)]
+[[poster](https://google.github.io/speaker-id/publications/LstmDiarization/resources/icassp2018_diarization_poster.pdf)]
+[[wiki](https://google.github.io/speaker-id/publications/LstmDiarization/)]
 
 *	Li Wan, **Quan Wang**, Alan Papir, Ignacio Lopez Moreno, "Generalized End-to-End Loss for Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018). (ORAL)
+[[PDF](https://arxiv.org/pdf/1710.10467.pdf)]
+[[slides]](https://sigport.org/documents/generalized-end-end-loss-speaker-verification)
+[[wiki](https://google.github.io/speaker-id/publications/GE2E/)]
 
 *	F A Rezaur Rahman Chowdhury, **Quan Wang**, Ignacio Lopez Moreno, Li Wan, "Attention-Based Models for Text-Dependent Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
+[[PDF](https://arxiv.org/pdf/1710.10470.pdf)]
+[[poster](https://sigport.org/documents/attention-based-models-text-dependent-speaker-verification)]
 
 *	Alejandro Luebs, Bastiaan Kleijn, Felicia Lim, Florian Stimberg, Jan Skoglund, **Quan Wang**, Thomas Walters, "Wavenet Based Low-Rate Speech Coding", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
+[[PDF](https://arxiv.org/pdf/1712.01120.pdf)]
+[[poster](https://wangquan.me/files/research/icassp2018_wavenet_poster.pdf)]
 
 *	**Quan Wang**, Xinchi Zhang, Kim L. Boyer, "3D Scene Estimation with Perturbation-Modulated Light and Distributed Sensors", 10th IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS). (ORAL)
+[[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/scene_PBVS_2014.pdf)]
 
 *	**Quan Wang**, Yan Ou, A. Agung Julius, Kim L. Boyer and Min Jun Kim, "Tracking Tetrahymena Pyriformis Cells using Decision Trees", 21st International Conference on Pattern Recognition (ICPR), Pages 1843-1847, 11-15 Nov. 2012.
+[[PDF](https://github.com/wq2012/DecisionForest/blob/master/documentation/cell_tracking_ICPR_2012.pdf)]
+[[shotgun](https://github.com/wq2012/DecisionForest/blob/master/documentation/cell_tracking_shotgun.pdf)]
+[[poster](https://github.com/wq2012/DecisionForest/blob/master/documentation/cell_tracking_poster.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/39110-decision-tree-and-decision-forest)]
 
 *	**Quan Wang**, Dijia Wu, Le Lu, Meizhu Liu, Kim L. Boyer, and Shaohua Kevin Zhou, "Semantic Context Forests for Learning-Based Knee Cartilage Segmentation in 3D MR Images", MICCAI 2013: Workshop on Medical Computer Vision. (ORAL)
+[[PDF](https://github.com/wq2012/DecisionForest/blob/master/documentation/miccai_mcv_2013.pdf)]
+[[poster](https://github.com/wq2012/DecisionForest/blob/master/documentation/miccai_mcv_poster.pdf)]
+[[slides](https://github.com/wq2012/DecisionForest/blob/master/documentation/miccai_mcv_slides.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/39110-decision-tree-and-decision-forest)]
 
 *	**Quan Wang**, Xin Shen, Meng Wang, Kim L. Boyer, "Label Consistent Fisher Vectors for Supervised Feature Aggregation", 22nd International Conference on Pattern Recognition (ICPR), 2014.
+[[PDF](https://github.com/wq2012/LCFV/blob/master/documentation/LCFV_ICPR_2014.pdf)]
+[[poster](https://github.com/wq2012/LCFV/blob/master/documentation/LCFV_ICPR_2014.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/47730-label-consistent-fisher-vectors-lcfv)]
 
 *	**Quan Wang**, Xinchi Zhang, Meng Wang, Kim L. Boyer, "Learning Room Occupancy Patterns from Sparsely Recovered Light Transport Models", 22nd International Conference on Pattern Recognition (ICPR), 2014. (ORAL)
+[[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/ERC_ICPR_2014.pdf)]
 
 *	**Quan Wang**, Kim L. Boyer, "Feature Learning by Multidimensional Scaling and its Applications in Object Recognition", 26th SIBGRAPI Conference on Graphics, Patterns and Images (Sibgrapi). IEEE, 2013. (ORAL)
+[[PDF](https://wangquan.me/files/research/MDS_SIBGRAPI_2013.pdf)]
+[[slides](https://wangquan.me/files/research/MDS_feature_learning_slides.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/42261-efficient-multidimensional-scaling-mds)]
 
 *	Tanveer Syeda-Mahmood, **Quan Wang**, Patrick McNeillie, David Beymer, Colin Compas, "Discriminating Normal and Abnormal Left Ventricular Shapes in Four-Chamber View 2D Echocardiography", International Symposium on Biomedical Imaging (ISBI), 2014.
 
 *	**Quan Wang**, Yu Wang, Zuoguan Wang, "Online Smart Face Morphing Engine with Prior Constraints and Local Geometry Preservation", International Workshop on Multimodal pattern recognition of social signals in human computer interaction (MPRSS 2014). (ORAL)
+[[PDF](https://wangquan.me/files/research/facewarping_MPRSS_2014.pdf)]
 
 *	Xinchi Zhang, **Quan Wang**, Kim L. Boyer, "Illumination Adaptation with Rapid-Response Color Sensors", SPIE Optical Engineering + Applications, 2014. (ORAL)
+[[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/sensor_SPIE_2014.pdf)]
 
 ### Technical Reports and Theses
 
@@ -257,9 +293,3 @@
 
 * MLFont
     * [Publication info](https://google.github.io/speaker-id/publications/MLFont/)
-
-* LSTM Diarization
-    * [Publication info](https://google.github.io/speaker-id/publications/LstmDiarization/)
-
-* Generalized End-to-End Loss for Speaker Verification
-    * [Publication info](https://google.github.io/speaker-id/publications/GE2E/)
