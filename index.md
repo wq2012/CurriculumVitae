@@ -32,18 +32,21 @@
     [[VentureBeat](https://venturebeat.com/2018/11/12/google-open-sources-ai-that-can-distinguish-between-voices-with-92-percent-accuracy/)]
     [[SiliconAngle](https://siliconangle.com/2018/11/12/google-built-ai-model-can-accurately-distinguish-different-human-voices/)]
     * Chinese:
-    [[量子位](https://mp.weixin.qq.com/s/YOupCjU06JhRCZNCbMvAgQ)]
-    [[cnBeta](https://www.cnbeta.com/articles/tech/787295.htm)]
-    [[EEPW电子产品世界](http://www.eepw.com.cn/article/201811/394377.htm)]
-    [[Sina新浪科技](https://tech.sina.com.cn/it/2018-11-13/doc-ihmutuea9658316.shtml)]
-    [[iThome](https://www.ithome.com.tw/news/126984)]
-    [[osChina开源中国](http://oschina.net/news/101780/fully-super-vised-speaker-diarization)]
-    [[智东西早报](http://www.sohu.com/a/275211682_115978)]
-    [[人工智能半月刊](http://finance.sina.com.cn/stock/stockzmt/2018-11-17/doc-ihnyuqhh3951826.shtml)]
-    [[ChinaEmail中国邮箱网](http://www.chinaemail.com.cn/blog/content/9652/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90AI%E8%83%BD%E5%8C%BA%E5%88%86%E5%A3%B0%E9%9F%B3-%E5%87%86%E7%A1%AE%E7%8E%87%E8%BE%BE92%25.html)]
-    [[机器之心早报](https://www.jiqizhixin.com/topics/2018-11-13)]
-    [[智东西](http://zhidx.com/news/9005.html)]
-    [[报价宝](http://www.baojiabao.com/bjbnews/zh201811131700226357.html)]
+        * Full article:
+        [[量子位](https://mp.weixin.qq.com/s/YOupCjU06JhRCZNCbMvAgQ)]
+        [[cnBeta](https://www.cnbeta.com/articles/tech/787295.htm)]
+        [[EEPW电子产品世界](http://www.eepw.com.cn/article/201811/394377.htm)]
+        [[Sina新浪科技](https://tech.sina.com.cn/it/2018-11-13/doc-ihmutuea9658316.shtml)]
+        [[iThome](https://www.ithome.com.tw/news/126984)]
+        [[osChina开源中国](http://oschina.net/news/101780/fully-super-vised-speaker-diarization)]
+        [[机器之心快讯](https://www.jiqizhixin.com/dailies/92fb72c6-4e83-49d1-af63-e6103fa6840b)]
+        [[ChinaEmail中国邮箱网](http://www.chinaemail.com.cn/blog/content/9652/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90AI%E8%83%BD%E5%8C%BA%E5%88%86%E5%A3%B0%E9%9F%B3-%E5%87%86%E7%A1%AE%E7%8E%87%E8%BE%BE92%25.html)]
+        [[智东西快讯](http://zhidx.com/news/9005.html)]
+        [[报价宝](http://www.baojiabao.com/bjbnews/zh201811131700226357.html)]
+        * Included in:
+        [[机器之心AI每日精选](https://www.jiqizhixin.com/topics/2018-11-13)]
+        [[人工智能半月刊](http://finance.sina.com.cn/stock/stockzmt/2018-11-17/doc-ihnyuqhh3951826.shtml)]
+        [[智东西早报](http://www.sohu.com/a/275211682_115978)]
     * Russian:
     [[dev.by](https://dev.by/news/google-otkryla-ii-algoritm-kotoryi-raspoznayot-golosa-s-92-procentnoi-tochnostyu)]
     * Italian:
