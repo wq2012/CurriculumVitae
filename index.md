@@ -3,9 +3,9 @@
 
 | Current Occupation| Contact|
 |-------------------|--------|
-| Senior Software Engineer | Email: quanrpi@gmail.com |
-| Google Inc. | Web: https://wangquan.me/ |
-| New York, NY | LinkedIn: https://www.linkedin.com/in/wangquan/ |
+| Senior Software Engineer | Email: [quanrpi@gmail.com](quanrpi@gmail.com) |
+| Google Inc. | Web: [https://wangquan.me/](https://wangquan.me/) |
+| New York, NY | LinkedIn: [https://www.linkedin.com/in/wangquan/](https://www.linkedin.com/in/wangquan/) |
 
 ## Research Interests
 
