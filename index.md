@@ -224,30 +224,45 @@
 ### Technical Reports and Theses
 
 *	**Quan Wang**, Yiran Mao, "Learning Better Font Slicing Strategies from Data", Technical Disclosure Commons, Defensive Publications Series.
+[[link](https://www.tdcommons.org/dpubs_series/906/)]
+[[PDF](https://google.github.io/speaker-id/publications/MLFont/resources/Learning%20Better%20Font%20Slicing%20Strategies%20from%20Data.pdf)]
+[[wiki](https://google.github.io/speaker-id/publications/MLFont/)]
 
 *	Philip Andrew Mansfield, **Quan Wang**, Carlton Downey, Li Wan, Ignacio Lopez Moreno, "Links: A High-Dimensional Online Clustering Method", arXiv:1801.10123 [*stat.ML*].
+[[PDF](https://arxiv.org/pdf/1801.10123.pdf)]
 
 *	**Quan Wang** (2012), "GMM-Based Hidden Markov Random Field for Color Image and 3D Volume Segmentation", arXiv:1212.4527 [*cs.CV*].
+[[PDF](https://arxiv.org/pdf/1212.4527.pdf)]
 
 *	**Quan Wang** (2012), "HMRF-EM-image: Implementation of the Hidden Markov Random Field Model and its Expectation-Maximization Algorithm", arXiv:1207.3510 [*cs.CV*].
+[[PDF](https://arxiv.org/pdf/1207.3510.pdf)]
 
 *	**Quan Wang** (2012), "Kernel Principal Component Analysis and its Applications in Face Recognition and Active Shape Models", arXiv:1207.3538 [*cs.CV*].
+[[PDF](https://arxiv.org/pdf/1207.3538.pdf)]
 
 *	**Quan Wang** (2014), "Exploiting Geometric and Spatial Constraints for Vision and Lighting Applications", Rensselaer Polytechnic Institute Ph.D. dissertation.
 
-*	**Quan Wang** (2010), "Implementation and Study of Light-Field-Based 3D Object Retrieval System", Tsinghua University Undergraduate Thesis. [[demo](https://www.youtube.com/watch?v=cqpDEDbjTL8)]
+*	**Quan Wang** (2010), "Implementation and Study of Light-Field-Based 3D Object Retrieval System", Tsinghua University Undergraduate Thesis.
+[[PDF](https://wangquan.me/files/research/quan_thesis_thu.pdf)]
+[[poster](https://wangquan.me/images/research/LF3DR.jpg)]
+[[demo](https://www.youtube.com/watch?v=cqpDEDbjTL8)]
 
 ## Patents
 
 *	**Quan Wang**, Dijia Wu, Meizhu Liu, Le Lu, Kevin Shaohua Zhou, [Automatic spatial context based multi-object segmentation in 3D images](https://patents.google.com/patent/US20140161334A1)
+[[PDF](https://patentimages.storage.googleapis.com/f9/87/1f/ceafa7923c90a4/US20140161334A1.pdf)]
 
 *	**Quan Wang**, David Beymer, Patrick McNeillie, Tanveer Syeda-Mahmood, [Discriminating between normal and abnormal left ventricles in echocardiography](https://patents.google.com/patent/US9436995B2)
+[[PDF](https://patentimages.storage.googleapis.com/47/a2/36/277b3561f12096/US9436995.pdf)]
 
 *	**Quan Wang**, Xinchi Zhang, Kim L. Boyer, [Occupancy sensing smart lighting systems](https://patents.google.com/patent/US9907138B2/)
+[[PDF](https://patentimages.storage.googleapis.com/aa/1d/cc/92a2676ee09129/US9907138.pdf)]
 
 *	**Quan Wang**, Thibaud Senechal, Daniel Makoto Willenson, Shuang Wu, Yue Liu, Shiv Naga Prasad Vitaladevuni, David Paul Ramos, Qingfeng Yu, [Text detection using features associated with neighboring glyph pairs](https://patents.google.com/patent/US9367736B1)
+[[PDF](https://patentimages.storage.googleapis.com/66/73/b8/25575a9c978818/US9367736.pdf)]
 
 *	**Quan Wang**, Ignacio Lopez Moreno, Li Wang, [Speaker Verification](https://patents.google.com/patent/US20180018973A1)
+[[PDF](https://patentimages.storage.googleapis.com/2f/5c/92/f34c352d5eb916/US20180018973A1.pdf)]
 
 ## Reviewing
 
@@ -260,7 +275,7 @@
 
 ## Teaching
 
-*	2011/01 – 2012/12, Teaching Assistant, Rensselaer Polytechnic Institute, Troy NY, USA
+*	2011/01 – 2012/12, Teaching Assistant, **Rensselaer Polytechnic Institute**, Troy NY, USA
     *	Spring 2011, Embedded Control [ENGR 2350], by Prof. Russell P. Kraft
     *	Spring 2011, Real-Time Applications in Control & Communications [ECSE 4760], by Prof. Russell P. Kraft
     *	Fall 2011, Introduction to Engineering Analysis [ENGR 1100], by Prof. Mark W. Olles
@@ -292,4 +307,4 @@
     * [GitHub](https://github.com/google/uis-rnn)
 
 * MLFont
-    * [Publication info](https://google.github.io/speaker-id/publications/MLFont/)
+    * [Wiki](https://google.github.io/speaker-id/publications/MLFont/)
