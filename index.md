@@ -204,6 +204,7 @@
 [[PDF](https://github.com/wq2012/LCFV/blob/master/documentation/LCFV_ICPR_2014.pdf)]
 [[poster](https://github.com/wq2012/LCFV/blob/master/documentation/LCFV_ICPR_2014.pdf)]
 [[software](https://www.mathworks.com/matlabcentral/fileexchange/47730-label-consistent-fisher-vectors-lcfv)]
+[[demo](https://www.youtube.com/watch?v=GTSMONLaRAg)]
 
 *	**Quan Wang**, Xinchi Zhang, Meng Wang, Kim L. Boyer, "Learning Room Occupancy Patterns from Sparsely Recovered Light Transport Models", 22nd International Conference on Pattern Recognition (ICPR), 2014. (ORAL)
 [[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/ERC_ICPR_2014.pdf)]
