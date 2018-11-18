@@ -139,18 +139,25 @@
 ### Journal Publications
 
 *	**Quan Wang**, Kim L. Boyer, "The active geometric shape model: A new robust deformable shape model and its applications", Computer Vision and Image Understanding, Volume 116, Issue 12, December 2012, Pages 1178-1194, ISSN 1077-3142, doi:10.1016/j.cviu.2012.08.004.
+[[link](https://www.sciencedirect.com/science/article/pii/S1077314212001154?via%3Dihub)]
+[[PDF](https://github.com/wq2012/AGSM/blob/master/documentation/AGSM_CVIU_2012.pdf)]
+[[slides](https://github.com/wq2012/AGSM/blob/master/documentation/AGSM%20PPT.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/38358-active-geometric-shape-models)]
 
 *	**Quan Wang**, Xinchi Zhang, Kim L. Boyer, "Occupancy distribution estimation for smart light delivery with perturbation-modulated light sensing", Journal of Solid State Lighting 2014 1:17, ISSN 2196-1107, doi:10.1186/s40539-014-0017-2.
+[[link](https://journalofsolidstatelighting.springeropen.com/articles/10.1186/s40539-014-0017-2)]
+[[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/COSBOS_JSSL_2014.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/48428-cosbos-color-sensor-based-occupancy-sensing)]
 
 ### Conference Publications
 
-*	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", arXiv:1810.04826 [eess.AS].
+*	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", arXiv:1810.04826 [*eess.AS*].
 
-*	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", arXiv:1810.04719 [eess.AS].
+*	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", arXiv:1810.04719 [*eess.AS*].
 
-*	Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, **Quan Wang**, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, "Sample Efficient Adaptive Text-to-Speech", arXiv: 1809.10460 [cs.LG].
+*	Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, **Quan Wang**, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, "Sample Efficient Adaptive Text-to-Speech", arXiv: 1809.10460 [*cs.LG*].
 
-*	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", arXiv: 1806.04558 [cs.CL].
+*	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", arXiv: 1806.04558 [*cs.CL*].
 
 *	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
 
@@ -182,13 +189,13 @@
 
 *	**Quan Wang**, Yiran Mao, "Learning Better Font Slicing Strategies from Data", Technical Disclosure Commons, Defensive Publications Series.
 
-*	Philip Andrew Mansfield, **Quan Wang**, Carlton Downey, Li Wan, Ignacio Lopez Moreno, "Links: A High-Dimensional Online Clustering Method", arXiv:1801.10123 [stat.ML].
+*	Philip Andrew Mansfield, **Quan Wang**, Carlton Downey, Li Wan, Ignacio Lopez Moreno, "Links: A High-Dimensional Online Clustering Method", arXiv:1801.10123 [*stat.ML*].
 
-*	**Quan Wang** (2012), "GMM-Based Hidden Markov Random Field for Color Image and 3D Volume Segmentation", arXiv:1212.4527 [cs.CV].
+*	**Quan Wang** (2012), "GMM-Based Hidden Markov Random Field for Color Image and 3D Volume Segmentation", arXiv:1212.4527 [*cs.CV*].
 
-*	**Quan Wang** (2012), "HMRF-EM-image: Implementation of the Hidden Markov Random Field Model and its Expectation-Maximization Algorithm", arXiv:1207.3510 [cs.CV].
+*	**Quan Wang** (2012), "HMRF-EM-image: Implementation of the Hidden Markov Random Field Model and its Expectation-Maximization Algorithm", arXiv:1207.3510 [*cs.CV*].
 
-*	**Quan Wang** (2012), "Kernel Principal Component Analysis and its Applications in Face Recognition and Active Shape Models", arXiv:1207.3538 [cs.CV].
+*	**Quan Wang** (2012), "Kernel Principal Component Analysis and its Applications in Face Recognition and Active Shape Models", arXiv:1207.3538 [*cs.CV*].
 
 *	**Quan Wang** (2014), "Exploiting Geometric and Spatial Constraints for Vision and Lighting Applications", Rensselaer Polytechnic Institute Ph.D. dissertation.
 
