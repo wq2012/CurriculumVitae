@@ -306,5 +306,5 @@
 * UIS-RNN: Unbounded Interleaved-State Recurrent Neural Network
     * [GitHub](https://github.com/google/uis-rnn)
 
-* MLFont
+* MLFont: Learning Better Font Slicing Strategies from Data
     * [Wiki](https://google.github.io/speaker-id/publications/MLFont/)
