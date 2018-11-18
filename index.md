@@ -33,6 +33,7 @@
     [[SiliconAngle](https://siliconangle.com/2018/11/12/google-built-ai-model-can-accurately-distinguish-different-human-voices/)]
     * Chinese:
     [[量子位](https://mp.weixin.qq.com/s/YOupCjU06JhRCZNCbMvAgQ)]
+    [[cnBeta](https://www.cnbeta.com/articles/tech/787295.htm)]
     [[EEPW电子产品世界](http://www.eepw.com.cn/article/201811/394377.htm)]
     [[Sina新浪科技](https://tech.sina.com.cn/it/2018-11-13/doc-ihmutuea9658316.shtml)]
     [[iThome](https://www.ithome.com.tw/news/126984)]
