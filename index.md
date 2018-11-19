@@ -40,6 +40,7 @@
         [[iThome](https://www.ithome.com.tw/news/126984)]
         [[osChina开源中国](http://oschina.net/news/101780/fully-super-vised-speaker-diarization)]
         [[机器之心快讯](https://www.jiqizhixin.com/dailies/92fb72c6-4e83-49d1-af63-e6103fa6840b)]
+        [[网易科技](http://tech.163.com/18/1113/11/E0G6J5HI00097U7T.html)]
         [[ChinaEmail中国邮箱网](http://www.chinaemail.com.cn/blog/content/9652/%E8%B0%B7%E6%AD%8C%E5%BC%80%E6%BA%90AI%E8%83%BD%E5%8C%BA%E5%88%86%E5%A3%B0%E9%9F%B3-%E5%87%86%E7%A1%AE%E7%8E%87%E8%BE%BE92%25.html)]
         [[智东西快讯](http://zhidx.com/news/9005.html)]
         [[报价宝](http://www.baojiabao.com/bjbnews/zh201811131700226357.html)]
