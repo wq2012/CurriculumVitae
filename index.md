@@ -31,6 +31,7 @@
     * English:
     [[VentureBeat](https://venturebeat.com/2018/11/12/google-open-sources-ai-that-can-distinguish-between-voices-with-92-percent-accuracy/)]
     [[SiliconAngle](https://siliconangle.com/2018/11/12/google-built-ai-model-can-accurately-distinguish-different-human-voices/)]
+    [[InfoQ](https://www.infoq.com/news/2018/11/Google-AI-Voice)]
     * Chinese:
         * Full article:
         [[量子位](https://mp.weixin.qq.com/s/YOupCjU06JhRCZNCbMvAgQ)]
