@@ -162,6 +162,9 @@
 
 ### Conference Publications
 
+*	Li Wan, Prashant Sridhar, Yang Yu, **Quan Wang**, Ignacio Lopez Moreno, "Tuplemax Loss for Language Identification", arXiv:1811.12290 [*eess.AS*].
+[[PDF](https://arxiv.org/pdf/1811.12290.pdf)]
+
 *	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", arXiv:1810.04826 [*eess.AS*].
 [[PDF](https://arxiv.org/pdf/1810.04826.pdf)]
 [[samples](https://google.github.io/speaker-id/publications/VoiceFilter/)]
@@ -221,7 +224,7 @@
 [[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/ERC_ICPR_2014.pdf)]
 
 *	**Quan Wang**, Kim L. Boyer, "Feature Learning by Multidimensional Scaling and its Applications in Object Recognition", 26th SIBGRAPI Conference on Graphics, Patterns and Images (Sibgrapi). IEEE, 2013. (ORAL)
-[[PDF](https://wangquan.me/files/research/MDS_SIBGRAPI_2013.pdf)]
+[[PDF]https://github.com/wq2012/SimpleMatrix/blob/master/documentation/MDS_SIBGRAPI_2013.pdf)]
 [[slides](https://wangquan.me/files/research/MDS_feature_learning_slides.pdf)]
 [[software](https://www.mathworks.com/matlabcentral/fileexchange/42261-efficient-multidimensional-scaling-mds)]
 
