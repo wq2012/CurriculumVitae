@@ -180,6 +180,7 @@
 *	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", arXiv: 1806.04558 [*cs.CL*].
 [[PDF](https://arxiv.org/pdf/1806.04558.pdf)]
 [[samples](https://google.github.io/tacotron/publications/speaker_adaptation/)]
+[[poster](https://google.github.io/tacotron/publications/speaker_adaptation/poster.pdf)]
 
 *	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
 [[PDF](https://arxiv.org/pdf/1710.10468.pdf)]
