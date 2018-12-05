@@ -181,6 +181,7 @@
 [[PDF](https://arxiv.org/pdf/1806.04558.pdf)]
 [[samples](https://google.github.io/tacotron/publications/speaker_adaptation/)]
 [[poster](https://google.github.io/tacotron/publications/speaker_adaptation/poster.pdf)]
+[[Google AI Blog](https://ai.googleblog.com/2018/12/google-at-neurips-2018.html)]
 
 *	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
 [[PDF](https://arxiv.org/pdf/1710.10468.pdf)]
