@@ -33,6 +33,7 @@
     [[SiliconAngle](https://siliconangle.com/2018/11/12/google-built-ai-model-can-accurately-distinguish-different-human-voices/)]
     [[InfoQ](https://www.infoq.com/news/2018/11/Google-AI-Voice)]
     [[OpenSourceForU](http://opensourceforu.com/2018/11/google-open-sources-ai-technology-of-speaker-diarization/)]
+    [[Futurism](https://futurism.com/the-byte/google-ai-recognize-new-voices)]
     * Chinese:
         * Full article:
         [[量子位](https://mp.weixin.qq.com/s/YOupCjU06JhRCZNCbMvAgQ)]
