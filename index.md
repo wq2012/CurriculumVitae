@@ -188,6 +188,7 @@
 *	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
 [[PDF](https://arxiv.org/pdf/1710.10468.pdf)]
 [[poster](https://google.github.io/speaker-id/publications/LstmDiarization/resources/icassp2018_diarization_poster.pdf)]
+[[code](https://github.com/wq2012/SpectralCluster)]
 [[wiki](https://google.github.io/speaker-id/publications/LstmDiarization/)]
 
 *	Li Wan, **Quan Wang**, Alan Papir, Ignacio Lopez Moreno, "Generalized End-to-End Loss for Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018). (ORAL)
