@@ -292,6 +292,7 @@
 *	EURASIP Journal on Image and Video Processing
 *	Computer Communication & Collaboration
 *	Artificial Intelligence Review
+*   Journal of Signal Processing Systems
 
 ## Teaching
 
