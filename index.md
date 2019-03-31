@@ -293,6 +293,7 @@
 *	Computer Communication & Collaboration
 *	Artificial Intelligence Review
 *   Journal of Signal Processing Systems
+*   International Joint Conference on Artificial Intelligence (IJCAI) 2019
 
 ## Teaching
 
