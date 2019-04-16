@@ -72,6 +72,8 @@
 *	Multispeaker Text-to-Speech:
 [[机器之心](https://www.jiqizhixin.com/articles/062404)]
 
+*   Speech-to-speech translation: [[slator](https://slator.com/slator-pro/behold-the-translatotron-googles-latest-move-in-speech-translation/)] [[量子位](https://posts.careerengine.us/p/5cb57549a74a261fe5c48db7)]
+
 *   Bolo Android App:
     * Official: [[Official Site](https://bolo.withgoogle.com/intl/en/)] [[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.seekh&hl=en_US)] [[Sundar's tweet](https://twitter.com/sundarpichai/status/1103985641702883328)]
     * English: [[Techcrunch](https://techcrunch.com/2019/03/06/google-introduces-educational-app-bolo-to-improve-childrens-literacy-rates-in-india)] [[Venturebeat](https://venturebeat.com/2019/03/05/google-releases-bolo-a-speech-recognition-app-that-helps-indian-kids-learn-to-read)] [[IndiaTimes](https://www.indiatimes.com/technology/news/google-bolo-used-ai-power-to-improve-children-s-reading-skills-by-64-in-200-u-p-schools-363248.html)] [[NDTV](https://gadgets.ndtv.com/apps/news/google-bolo-reading-tutor-app-india-launch-android-play-store-speech-based-2003488)] [[CNN](https://www.cnn.com/2019/03/07/tech/google-bolo-india-reading-app/index.html)]
