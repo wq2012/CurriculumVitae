@@ -184,7 +184,7 @@
 
 *	Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, **Quan Wang**, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, "Sample Efficient Adaptive Text-to-Speech", arXiv: 1809.10460 [*cs.LG*].
 [[PDF](https://arxiv.org/pdf/1809.10460.pdf)]
-[[samples](https://sample-efficient-adaptive-tts.github.io/demo/)] [[Google AI Blog](https://ai.googleblog.com/2019/05/google-at-iclr-2019.html)]
+[[samples](https://sample-efficient-adaptive-tts.github.io/demo/)] [[poster](https://sample-efficient-adaptive-tts.github.io/demo/poster/poster.pdf)] [[Google AI Blog](https://ai.googleblog.com/2019/05/google-at-iclr-2019.html)]
 
 *	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", arXiv: 1806.04558 [*cs.CL*].
 [[PDF](https://arxiv.org/pdf/1806.04558.pdf)]
