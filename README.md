@@ -72,7 +72,7 @@
 *	Multispeaker Text-to-Speech:
 [[机器之心](https://www.jiqizhixin.com/articles/062404)]
 
-*   Speech-to-speech translation: [[slator](https://slator.com/slator-pro/behold-the-translatotron-googles-latest-move-in-speech-translation/)] [[量子位](https://posts.careerengine.us/p/5cb57549a74a261fe5c48db7)]
+*   Speech-to-speech translation: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)] [[slator](https://slator.com/slator-pro/behold-the-translatotron-googles-latest-move-in-speech-translation/)] [[量子位](https://posts.careerengine.us/p/5cb57549a74a261fe5c48db7)]
 
 *   Bolo Android App:
     * Official: [[Official Site](https://bolo.withgoogle.com/intl/en/)] [[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.seekh&hl=en_US)] [[Sundar's tweet](https://twitter.com/sundarpichai/status/1103985641702883328)]
