@@ -72,7 +72,21 @@
 *	Multispeaker Text-to-Speech:
 [[机器之心](https://www.jiqizhixin.com/articles/062404)]
 
-*   Speech-to-speech translation: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)] [[slator](https://slator.com/slator-pro/behold-the-translatotron-googles-latest-move-in-speech-translation/)] [[量子位](https://posts.careerengine.us/p/5cb57549a74a261fe5c48db7)]
+*   Speech-to-speech translation:
+    * Official: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)]
+    [[Google AI official tweet](https://twitter.com/GoogleAI/status/1128732845566976000)]
+    * English: [[VentureBeat](https://venturebeat.com/2019/05/15/googles-translatotron-is-an-end-to-end-model-that-mimics-human-voices/)]
+    [[TechCrunch](https://techcrunch.com/2019/05/15/googles-translatotron-converts-one-spoken-language-to-another-no-text-involved)]
+    [[CNET](https://www.cnet.com/news/googles-translatotron-translates-speech-directly-to-speech/)]
+    [[Android Central](https://www.androidcentral.com/googles-translatotron-will-mimic-speakers-voice-when-translating)]
+    [[Engadget](https://www.engadget.com/2019/05/15/google-translatotron-direct-speech-translation/)]
+    [[Gadgets](https://gadgets.ndtv.com/apps/news/google-unveils-translatotron-its-speech-to-speech-translation-system-2038623)]
+    [[Android Police](https://www.androidpolice.com/2019/05/16/google-introduces-direct-speech-to-speech-translation-technology-it-calls-translatotron/)]
+    [[slator](https://slator.com/slator-pro/behold-the-translatotron-googles-latest-move-in-speech-translation/)]
+    * Chinese: [[量子位](https://posts.careerengine.us/p/5cb57549a74a261fe5c48db7)]
+    [[cnBeta](https://www.cnbeta.com/articles/tech/847773.htm)]
+    [[机器之心](https://www.jiqizhixin.com/articles/2019-05-16-13)]
+    [[新智元](https://mp.weixin.qq.com/s/1somQ_I3LwyQUX_OC5W8Kw)]
 
 *   Bolo Android App:
     * Official: [[Official Site](https://bolo.withgoogle.com/intl/en/)] [[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.seekh&hl=en_US)] [[Sundar's tweet](https://twitter.com/sundarpichai/status/1103985641702883328)]
