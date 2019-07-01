@@ -288,6 +288,13 @@
 [[poster](https://wangquan.me/images/research/LF3DR.jpg)]
 [[demo](https://www.youtube.com/watch?v=cqpDEDbjTL8)]
 
+### Acknowledged by
+
+*   ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge Evaluation Plan, 2019 [PDF](http://www.asvspoof.org/asvspoof2019/asvspoof2019_evaluation_plan.pdf)
+
+*	Ye Jia, Ron J. Weiss, Fadi Biadsy, Wolfgang Macherey, Melvin Johnson, Zhifeng Chen, Yonghui Wu, "Direct speech-to-speech translation with a sequence-to-sequence model", arXiv:1904.06037 [*cs.CL*].
+[[PDF](https://arxiv.org/pdf/1904.06037.pdf)]
+
 ## Patents
 
 *	**Quan Wang**, Dijia Wu, Meizhu Liu, Le Lu, Kevin Shaohua Zhou, [Automatic spatial context based multi-object segmentation in 3D images](https://patents.google.com/patent/US20140161334A1)
