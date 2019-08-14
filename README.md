@@ -185,6 +185,9 @@
 
 ### Conference Publications
 
+*	Shaojin Ding, **Quan Wang**, Shuo-yiin Chang, Li Wan, Ignacio Lopez Moreno, "Personal VAD: Speaker-Conditioned Voice Activity Detection", arXiv:1908.04284 [*eess.AS*].
+[[PDF](https://arxiv.org/pdf/1908.04284.pdf)]
+
 *	Li Wan, Prashant Sridhar, Yang Yu, **Quan Wang**, Ignacio Lopez Moreno, "Tuplemax Loss for Language Identification", arXiv:1811.12290 [*eess.AS*].
 [[PDF](https://arxiv.org/pdf/1811.12290.pdf)] [[poster](https://github.com/google/speaker-id/blob/master/publications/Tuplemax/resources/icassp2019_tuplemax_poster.pdf)]
 
