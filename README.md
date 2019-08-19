@@ -58,6 +58,7 @@
     [[tom's HARDWARE](https://www.tomshw.it/altro/google-lia-che-riconosce-le-voci-col-92-di-accuratezza-diventa-open-source/)]
     * Vietnamese:
     [[GENK](http://genk.vn/ai-cua-google-co-kha-nang-phan-biet-giong-noi-nhieu-nguoi-khac-nhau-voi-do-chinh-xac-toi-92-20181114162438144.chn)]
+    * Japanese: [[WebBigData](https://webbigdata.jp/ai/post-2182)]
 
 *	VoiceFilter:
     * English:
