@@ -90,7 +90,7 @@
     [[新智元](https://mp.weixin.qq.com/s/1somQ_I3LwyQUX_OC5W8Kw)]
 
 *   Bolo Android App:
-    * Official: [[Official Site](https://bolo.withgoogle.com/intl/en/)] [[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.seekh&hl=en_US)] [[Sundar's tweet](https://twitter.com/sundarpichai/status/1103985641702883328)]
+    * Official: [[Official Site](https://bolo.withgoogle.com/intl/en/)] [[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.seekh&hl=en_US)] [[Sundar's tweet](https://twitter.com/sundarpichai/status/1103985641702883328)] [[Google AI Education](https://blog.google/technology/ai/bolo-literacy/)]
     * English: [[Techcrunch](https://techcrunch.com/2019/03/06/google-introduces-educational-app-bolo-to-improve-childrens-literacy-rates-in-india)] [[Venturebeat](https://venturebeat.com/2019/03/05/google-releases-bolo-a-speech-recognition-app-that-helps-indian-kids-learn-to-read)] [[IndiaTimes](https://www.indiatimes.com/technology/news/google-bolo-used-ai-power-to-improve-children-s-reading-skills-by-64-in-200-u-p-schools-363248.html)] [[NDTV](https://gadgets.ndtv.com/apps/news/google-bolo-reading-tutor-app-india-launch-android-play-store-speech-based-2003488)] [[CNN](https://www.cnn.com/2019/03/07/tech/google-bolo-india-reading-app/index.html)]
     * Chinese: [[新浪科技](https://tech.sina.com.cn/i/2019-03-11/doc-ihsxncvh1512147.shtml)] [[博客园](https://news.cnblogs.com/n/621444/)] [[智能手机网](http://www.xda.cn/keji/20190307/032505.html)] [[科技新报](http://technews.tw/2019/03/12/google-bolo-is-a-new-speech-based-reading-tutor-app-that-helps-children-learn-to-read/)]
 
