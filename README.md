@@ -140,7 +140,7 @@
 
 ## Work Experience
 
-*	2015/11 – Current, *Senior Software Engineer*, **Google**, New York City, NY, USA
+*	2015/11 – Current, *Staff Software Engineer* and *Tech Lead Manager*, **Google**, New York City, NY, USA
     *	Manager: Dr. Ignacio Lopez Moreno
     *	"OK Google" voice search & actions
     *	Speaker identification and speaker diarization
