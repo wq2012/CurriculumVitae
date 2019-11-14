@@ -71,7 +71,7 @@
     [[Tproger](https://tproger.ru/news/google-pick-out-voice/)]
 
 *	Multispeaker Text-to-Speech:
-[[机器之心](https://www.jiqizhixin.com/articles/062404)]
+[[机器之心](https://www.jiqizhixin.com/articles/062404)] [[Two Minute Papers](https://www.youtube.com/watch?v=0sR1rU3gLzQ)]
 
 *   Speech-to-speech translation:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)]
