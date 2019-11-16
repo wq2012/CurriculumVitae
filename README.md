@@ -320,13 +320,14 @@
 
 ## Reviewing
 
+*   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
+*	[EURASIP Journal on Image and Video Processing](https://jivp-eurasipjournals.springeropen.com/)
+*	[Artificial Intelligence Review](https://link.springer.com/journal/10462)
+*   [Journal of Signal Processing Systems](https://link.springer.com/journal/11265)
+*	[Computer Communication & Collaboration](http://www.bapress.ca/ccc.php)
 *	SIBGRAPI Conference on Graphics, Patterns, and Images 2013
 *	SIBGRAPI Conference on Graphics, Patterns, and Images 2014
 *	VISAPP International Conference on Computer Vision Theory and Applications 2014
-*	EURASIP Journal on Image and Video Processing
-*	Computer Communication & Collaboration
-*	Artificial Intelligence Review
-*   Journal of Signal Processing Systems
 *   International Joint Conference on Artificial Intelligence (IJCAI) 2019
 
 ## Teaching
