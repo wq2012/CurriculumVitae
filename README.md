@@ -315,8 +315,11 @@
 *	**Quan Wang**, Thibaud Senechal, Daniel Makoto Willenson, Shuang Wu, Yue Liu, Shiv Naga Prasad Vitaladevuni, David Paul Ramos, Qingfeng Yu, [Text detection using features associated with neighboring glyph pairs](https://patents.google.com/patent/US9367736B1)
 [[PDF](https://patentimages.storage.googleapis.com/66/73/b8/25575a9c978818/US9367736.pdf)]
 
-*	**Quan Wang**, Ignacio Lopez Moreno, Li Wang, [Speaker Verification](https://patents.google.com/patent/US20180018973A1)
+*	**Quan Wang**, Ignacio Lopez Moreno, Li Wan, [Speaker Verification](https://patents.google.com/patent/US20180018973A1)
 [[PDF](https://patentimages.storage.googleapis.com/2f/5c/92/f34c352d5eb916/US20180018973A1.pdf)]
+
+*	**Quan Wang**, Hasim Sak, Ignacio Lopez Moreno, Alan Sean Papir, Li Wan, [Neural Networks for Speaker Verification](https://patents.google.com/patent/WO2019027531A1/)
+[[PDF](https://patentimages.storage.googleapis.com/8a/34/97/b362cbcd9cff22/WO2019027531A1.pdf)]
 
 *	**Quan Wang**, Yash Sheth, Ignacio Lopez Moreno, Li Wan, [Speaker diarization using an end-to-end model](https://patents.google.com/patent/WO2019209569A1)
 [[PDF](https://patentimages.storage.googleapis.com/b0/86/55/4aa9f9bb5ee517/WO2019209569A1.pdf)]
