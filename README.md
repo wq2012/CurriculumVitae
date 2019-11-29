@@ -318,6 +318,9 @@
 *	**Quan Wang**, Ignacio Lopez Moreno, Li Wang, [Speaker Verification](https://patents.google.com/patent/US20180018973A1)
 [[PDF](https://patentimages.storage.googleapis.com/2f/5c/92/f34c352d5eb916/US20180018973A1.pdf)]
 
+*	**Quan Wang**, Yash Sheth, Ignacio Lopez Moreno, Li Wan, [Speaker diarization using an end-to-end model](https://patents.google.com/patent/WO2019209569A1)
+[[PDF](https://patentimages.storage.googleapis.com/b0/86/55/4aa9f9bb5ee517/WO2019209569A1.pdf)]
+
 ## Reviewing
 
 *   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
