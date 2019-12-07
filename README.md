@@ -336,7 +336,18 @@
 *	VISAPP International Conference on Computer Vision Theory and Applications 2014
 *   International Joint Conference on Artificial Intelligence (IJCAI) 2019
 
-## Teaching
+## Teaching and Mentoring
+
+### Students
+
+*   Shaojin Ding, 2019 Google summer intern, Ph.D.
+*   Aonan Zhang, 2018 Google summer & fall intern, Ph.D.
+*   Hannah Muckenhirn, 2018 Google summer intern, Ph.D.
+*   F A Rezaur Rahman Chowdhury, 2017 Google summer intern, Ph.D. (cohost)
+*   Carlton Downey, 2017 Google summer intern, Ph.D.
+*   Xinchi Zhang, 2013-2014 undergraduate student at Smart Lighting Engineering Research Center
+
+### Teaching Assistant
 
 *	2011/01 – 2012/12, Teaching Assistant, **Rensselaer Polytechnic Institute**, Troy NY, USA
     *	Spring 2011, Embedded Control [ENGR 2350], by Prof. Russell P. Kraft
