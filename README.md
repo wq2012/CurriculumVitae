@@ -303,6 +303,10 @@
 *	Ye Jia, Ron J. Weiss, Fadi Biadsy, Wolfgang Macherey, Melvin Johnson, Zhifeng Chen, Yonghui Wu, "Direct speech-to-speech translation with a sequence-to-sequence model", arXiv:1904.06037 [*cs.CL*].
 [[PDF](https://arxiv.org/pdf/1904.06037.pdf)]
 
+*   Aonan Zhang, "Composing Deep Learning and Bayesian Nonparametric Methods", Ph.D. Dissertation, 2019. [[PDF](https://academiccommons.columbia.edu/doi/10.7916/d8-wz1q-6892)]
+
+*   Yu Wang, "A broadly applicable three-dimensional neuron reconstruction framework based on deformable models and software system with parallel GPU implementation". Ph.D. Dissertation, 2011.
+
 ## Patents
 
 *	**Quan Wang**, Dijia Wu, Meizhu Liu, Le Lu, Kevin Shaohua Zhou, [Automatic spatial context based multi-object segmentation in 3D images](https://patents.google.com/patent/US20140161334A1)
