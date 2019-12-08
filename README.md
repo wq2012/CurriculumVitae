@@ -101,6 +101,8 @@
 *	Multi-user voice match on Google Home:
 [[Launch blog](https://blog.google/products/assistant/tomato-tomahto-google-home-now-supports-multiple-users/)]
 
+*   ASVspoof: [[Google Blog](https://www.blog.google/outreach-initiatives/google-news-initiative/advancing-research-fake-audio-detection/)] [[9to5Google](https://ww.9to5google.com/2019/01/31/google-deep-fake-audio-detection/)] [[IBC365](https://www.ibc.org/tech-advances/google-leads-fight-against-fake-audio/3560.article)] [[Digital Information World](https://www.digitalinformationworld.com/2019/02/google-is-working-to-help-ai-systems-determine-if-an-audio-recording-is-real.html)]
+
 *	ICASSP 2018 speaker recognition papers:
 [[机器之心](https://www.jiqizhixin.com/articles/2017-11-08)]
 
