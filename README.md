@@ -3,7 +3,7 @@
 
 | Current Occupation| Contact|
 |-------------------|--------|
-| Staff Software Engineer | Email: [quanrpi@gmail.com](mailto:quanrpi@gmail.com) |
+| Staff Software Engineer & Tech Lead Manager | Email: [quanrpi@gmail.com](mailto:quanrpi@gmail.com) |
 | Google Inc. | Web: [wangquan.me](https://wangquan.me/) |
 | New York, NY | LinkedIn: [www.linkedin.com/in/wangquan](https://www.linkedin.com/in/wangquan/) |
 
@@ -193,22 +193,22 @@
 *	Shaojin Ding, **Quan Wang**, Shuo-yiin Chang, Li Wan, Ignacio Lopez Moreno, "Personal VAD: Speaker-Conditioned Voice Activity Detection", arXiv:1908.04284 [*eess.AS*].
 [[PDF](https://arxiv.org/pdf/1908.04284.pdf)]
 
-*	Li Wan, Prashant Sridhar, Yang Yu, **Quan Wang**, Ignacio Lopez Moreno, "Tuplemax Loss for Language Identification", arXiv:1811.12290 [*eess.AS*].
+*	Li Wan, Prashant Sridhar, Yang Yu, **Quan Wang**, Ignacio Lopez Moreno, "Tuplemax Loss for Language Identification",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019).
 [[PDF](https://arxiv.org/pdf/1811.12290.pdf)] [[poster](https://github.com/google/speaker-id/blob/master/publications/Tuplemax/resources/icassp2019_tuplemax_poster.pdf)]
 
-*	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", arXiv:1810.04826 [*eess.AS*].
+*	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", Interspeech 2019. (ORAL)
 [[PDF](https://arxiv.org/pdf/1810.04826.pdf)]
 [[samples](https://google.github.io/speaker-id/publications/VoiceFilter/)]
 
-*	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", arXiv:1810.04719 [*eess.AS*].
+*	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019).
 [[PDF](https://arxiv.org/pdf/1810.04719.pdf)]
 [[code](https://github.com/google/uis-rnn)] [[poster](https://github.com/google/uis-rnn/blob/master/resources/icassp2019_supervised_diarization_poster.pdf)] [[Google AI Blog](https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html)]
 
-*	Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, **Quan Wang**, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, "Sample Efficient Adaptive Text-to-Speech", arXiv: 1809.10460 [*cs.LG*].
+*	Yutian Chen, Yannis Assael, Brendan Shillingford, David Budden, Scott Reed, Heiga Zen, **Quan Wang**, Luis C. Cobo, Andrew Trask, Ben Laurie, Caglar Gulcehre, Aäron van den Oord, Oriol Vinyals, Nando de Freitas, "Sample Efficient Adaptive Text-to-Speech", International Conference on Learning Representations (ICLR 2019).
 [[PDF](https://arxiv.org/pdf/1809.10460.pdf)]
 [[samples](https://sample-efficient-adaptive-tts.github.io/demo/)] [[poster](https://sample-efficient-adaptive-tts.github.io/demo/poster/poster.pdf)] [[Google AI Blog](https://ai.googleblog.com/2019/05/google-at-iclr-2019.html)]
 
-*	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", arXiv: 1806.04558 [*cs.CL*].
+*	Ye Jia, Yu Zhang, Ron J. Weiss, **Quan Wang**, Jonathan Shen, Fei Ren, Zhifeng Chen, Patrick Nguyen, Ruoming Pang, Ignacio Lopez Moreno, Yonghui Wu, "Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis", Advances in neural information processing systems (NeurIPS 2018).
 [[PDF](https://arxiv.org/pdf/1806.04558.pdf)]
 [[samples](https://google.github.io/tacotron/publications/speaker_adaptation/)]
 [[poster](https://google.github.io/tacotron/publications/speaker_adaptation/poster.pdf)]
@@ -272,26 +272,26 @@
 
 ### Technical Reports and Theses
 
-*	**Quan Wang**, Yiran Mao, "Learning Better Font Slicing Strategies from Data", Technical Disclosure Commons, Defensive Publications Series.
+*	**Quan Wang**, Yiran Mao , "Learning Better Font Slicing Strategies from Data", Technical Disclosure Commons, Defensive Publications Series, 2017.
 [[link](https://www.tdcommons.org/dpubs_series/906/)]
 [[PDF](https://google.github.io/speaker-id/publications/MLFont/resources/Learning%20Better%20Font%20Slicing%20Strategies%20from%20Data.pdf)]
 [[wiki](https://google.github.io/speaker-id/publications/MLFont/)]
 
-*	Philip Andrew Mansfield, **Quan Wang**, Carlton Downey, Li Wan, Ignacio Lopez Moreno, "Links: A High-Dimensional Online Clustering Method", arXiv:1801.10123 [*stat.ML*].
+*	Philip Andrew Mansfield, **Quan Wang**, Carlton Downey, Li Wan, Ignacio Lopez Moreno, "Links: A High-Dimensional Online Clustering Method", arXiv:1801.10123 [*stat.ML*], 2018.
 [[PDF](https://arxiv.org/pdf/1801.10123.pdf)]
 
-*	**Quan Wang** (2012), "GMM-Based Hidden Markov Random Field for Color Image and 3D Volume Segmentation", arXiv:1212.4527 [*cs.CV*].
+*	**Quan Wang**, "GMM-Based Hidden Markov Random Field for Color Image and 3D Volume Segmentation", arXiv:1212.4527 [*cs.CV*], 2012.
 [[PDF](https://arxiv.org/pdf/1212.4527.pdf)]
 
-*	**Quan Wang** (2012), "HMRF-EM-image: Implementation of the Hidden Markov Random Field Model and its Expectation-Maximization Algorithm", arXiv:1207.3510 [*cs.CV*].
+*	**Quan Wang**, "HMRF-EM-image: Implementation of the Hidden Markov Random Field Model and its Expectation-Maximization Algorithm", arXiv:1207.3510 [*cs.CV*], 2012.
 [[PDF](https://arxiv.org/pdf/1207.3510.pdf)]
 
-*	**Quan Wang** (2012), "Kernel Principal Component Analysis and its Applications in Face Recognition and Active Shape Models", arXiv:1207.3538 [*cs.CV*].
+*	**Quan Wang**, "Kernel Principal Component Analysis and its Applications in Face Recognition and Active Shape Models", arXiv:1207.3538 [*cs.CV*], 2012.
 [[PDF](https://arxiv.org/pdf/1207.3538.pdf)]
 
-*	**Quan Wang** (2014), "Exploiting Geometric and Spatial Constraints for Vision and Lighting Applications", Rensselaer Polytechnic Institute Ph.D. dissertation.
+*	**Quan Wang**, "Exploiting Geometric and Spatial Constraints for Vision and Lighting Applications", Rensselaer Polytechnic Institute Ph.D. dissertation, 2014.
 
-*	**Quan Wang** (2010), "Implementation and Study of Light-Field-Based 3D Object Retrieval System", Tsinghua University Undergraduate Thesis.
+*	**Quan Wang**, "Implementation and Study of Light-Field-Based 3D Object Retrieval System", Tsinghua University Undergraduate Thesis, 2010.
 [[PDF](https://wangquan.me/files/research/quan_thesis_thu.pdf)]
 [[poster](https://wangquan.me/images/research/LF3DR.jpg)]
 [[demo](https://www.youtube.com/watch?v=cqpDEDbjTL8)]
