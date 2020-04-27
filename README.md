@@ -99,7 +99,8 @@
  [[Google AI Blog](https://ai.googleblog.com/2018/08/Multilingual-Google-Assistant.html)]
 
 *	Multi-user voice match on Google Home:
-[[Launch blog](https://blog.google/products/assistant/tomato-tomahto-google-home-now-supports-multiple-users/)]
+    * Text-dependent: [[Launch blog](https://blog.google/products/assistant/tomato-tomahto-google-home-now-supports-multiple-users/)]
+    * Text-independent: [[Enrollment UI launch blog](https://www.blog.google/products/assistant/more-ways-fine-tune-google-assistant-you/)] [[engadget](https://www.engadget.com/google-assistant-voice-match-boost-013116528.html)]
 
 *   ASVspoof: [[Google Blog](https://www.blog.google/outreach-initiatives/google-news-initiative/advancing-research-fake-audio-detection/)] [[9to5Google](https://ww.9to5google.com/2019/01/31/google-deep-fake-audio-detection/)] [[IBC365](https://www.ibc.org/tech-advances/google-leads-fight-against-fake-audio/3560.article)] [[Digital Information World](https://www.digitalinformationworld.com/2019/02/google-is-working-to-help-ai-systems-determine-if-an-audio-recording-is-real.html)]
 
