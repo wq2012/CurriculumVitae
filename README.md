@@ -187,7 +187,7 @@
 [[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/COSBOS_JSSL_2014.pdf)]
 [[software](https://www.mathworks.com/matlabcentral/fileexchange/48428-cosbos-color-sensor-based-occupancy-sensing)]
 
-*   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: a large-scale public database of synthetic, converted and replayed speech", submitted. [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
+*   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: a large-scale public database of synthetic, converted and replayed speech", Computer Speech & Language. [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
 
 ### Conference Publications
 
@@ -330,6 +330,8 @@
 
 *	**Quan Wang**, Yash Sheth, Ignacio Lopez Moreno, Li Wan, [Speaker diarization using an end-to-end model](https://patents.google.com/patent/WO2019209569A1)
 [[PDF](https://patentimages.storage.googleapis.com/b0/86/55/4aa9f9bb5ee517/WO2019209569A1.pdf)]
+
+*   **Quan Wang**, Ye Jia, Zhifeng Chen, Yonghui Wu, Jonathan Shen, Ruoming Pang, Ron J. Weiss, Ignacio Lopez Moreno, Fei Ren, Yu Zhang, Patrick An Phu Nguyen, [Synthesis of speech from text in a voice of a target speaker using neural networks](https://patents.google.com/patent/WO2019222591A1) [[PDF](https://patentimages.storage.googleapis.com/64/70/a2/267ac141ed1688/WO2019222591A1.pdf)]
 
 ## Reviewing
 
