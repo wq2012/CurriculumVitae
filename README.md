@@ -187,7 +187,7 @@
 [[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/COSBOS_JSSL_2014.pdf)]
 [[software](https://www.mathworks.com/matlabcentral/fileexchange/48428-cosbos-color-sensor-based-occupancy-sensing)]
 
-*   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: a large-scale public database of synthetic, converted and replayed speech", Computer Speech & Language. [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
+*   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: a large-scale public database of synthetic, converted and replayed speech", Computer Speech & Language. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0885230820300474)] [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
 
 ### Conference Publications
 
@@ -349,8 +349,8 @@
 
 ### Students
 
-*   Shaojin Ding, 2019 Google summer intern, Ph.D.
-*   Aonan Zhang, 2018 Google summer & fall intern, Ph.D.
+*   Shaojin Ding, 2019 & 2020 Google summer intern, Ph.D.
+*   Aonan Zhang, 2018 Google summer intern & 2018 Google Student Researcher, Ph.D.
 *   Hannah Muckenhirn, 2018 Google summer intern, Ph.D.
 *   F A Rezaur Rahman Chowdhury, 2017 Google summer intern, Ph.D. (cohost)
 *   Carlton Downey, 2017 Google summer intern, Ph.D.
