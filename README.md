@@ -273,6 +273,11 @@
 
 ### Technical Reports and Theses
 
+*   Jin Shi, **Quan Wang**, Yeming Fang, Gang Feng, Zhengying Chen, Jason Pelecanos, Ignacio Lopez Moreno,
+Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recognition", Technical Disclosure Commons, Defensive Publications Series, 2020.
+[[link](https://www.tdcommons.org/dpubs_series/3238/)]
+[[PDF](https://www.tdcommons.org/cgi/viewcontent.cgi?article=4311&context=dpubs_series)]
+
 *	**Quan Wang**, Yiran Mao , "Learning Better Font Slicing Strategies from Data", Technical Disclosure Commons, Defensive Publications Series, 2017.
 [[link](https://www.tdcommons.org/dpubs_series/906/)]
 [[PDF](https://google.github.io/speaker-id/publications/MLFont/resources/Learning%20Better%20Font%20Slicing%20Strategies%20from%20Data.pdf)]
