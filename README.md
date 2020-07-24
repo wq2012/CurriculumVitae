@@ -191,6 +191,9 @@
 
 ### Conference Publications
 
+*   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", arXiv:2007.12069 [*eess.AS*], 2020.
+[[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
+
 *	Shaojin Ding, **Quan Wang**, Shuo-yiin Chang, Li Wan, Ignacio Lopez Moreno, "Personal VAD: Speaker-Conditioned Voice Activity Detection", Proc. Odyssey 2020 The Speaker and Language Recognition Workshop.
 [[PDF](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/2.pdf)]
 
