@@ -4,7 +4,7 @@
 | Current Occupation| Contact|
 |-------------------|--------|
 | Staff Software Engineer & Tech Lead Manager | Email: [quanrpi@gmail.com](mailto:quanrpi@gmail.com) |
-| Google Inc. | Web: [wangquan.me](https://wangquan.me/) |
+| Google LLC | Web: [wangquan.me](https://wangquan.me/) |
 | New York, NY | LinkedIn: [www.linkedin.com/in/wangquan](https://www.linkedin.com/in/wangquan/) |
 
 ## Research Interests
