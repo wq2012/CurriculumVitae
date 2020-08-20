@@ -341,6 +341,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 *   **Quan Wang**, Ye Jia, Zhifeng Chen, Yonghui Wu, Jonathan Shen, Ruoming Pang, Ron J. Weiss, Ignacio Lopez Moreno, Fei Ren, Yu Zhang, Patrick An Phu Nguyen, [Synthesis of speech from text in a voice of a target speaker using neural networks](https://patents.google.com/patent/WO2019222591A1) [[PDF](https://patentimages.storage.googleapis.com/64/70/a2/267ac141ed1688/WO2019222591A1.pdf)]
 
+*   **Quan Wang**, Pu-sen Chao, Diego Melendo Casado, Ignacio Lopez Moreno, [Text independent speaker recognition](https://patents.google.com/patent/WO2020117639A2/) [[PDF](https://patentimages.storage.googleapis.com/d4/c5/c6/3e29f6698d5841/WO2020117639A2.pdf)]
+
 ## Reviewing
 
 *   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
