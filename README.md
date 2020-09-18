@@ -9,7 +9,7 @@
 
 ## News
 
-My new book "Voice Identity Techniques: From core algorithms to engineering practice" can be purchased [here](https://item.jd.com/12970526.html).
+My new book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
 
 ## Research Interests
 
@@ -182,7 +182,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ### Books
 
-*   **Quan Wang**, "Voice Identity Techniques: From core algorithms to engineering practice", Publishing House of Electronics Industry (PHEI), September 2020. [[GitHub](https://github.com/wq2012/VoiceIdentityBook)] [[buy](https://item.jd.com/12970526.html)]
+*   **Quan Wang**, "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese), Publishing House of Electronics Industry (PHEI), September 2020. [[GitHub](https://github.com/wq2012/VoiceIdentityBook)] [[buy](https://item.jd.com/12970526.html)]
 
 ### Journal Publications
 
