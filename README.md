@@ -7,6 +7,10 @@
 | Google LLC | Web: [wangquan.me](https://wangquan.me/) |
 | New York, NY | LinkedIn: [www.linkedin.com/in/wangquan](https://www.linkedin.com/in/wangquan/) |
 
+## News
+
+My new book "Voice Identity Techniques: From core algorithms to engineering practice" can be purchased [here](https://item.jd.com/12970526.html).
+
 ## Research Interests
 
 ### Recent
@@ -23,6 +27,8 @@
 *	Occupancy sensing and reconstruction for smart lighting
 
 ## Media Coverage
+
+* Book on Voice Identity Technologies: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)]
 
 * Diarization and UIS-RNN:
     * Official:
@@ -173,6 +179,10 @@
     *	This prize is awarded to a graduate student who has demonstrated high scholastic ability and has made a substantial contribution to that field.
 
 ## Publications
+
+### Books
+
+*   **Quan Wang**, "Voice Identity Techniques: From core algorithms to engineering practice", Publishing House of Electronics Industry (PHEI), September 2020. [[GitHub](https://github.com/wq2012/VoiceIdentityBook)] [[buy](https://item.jd.com/12970526.html)]
 
 ### Journal Publications
 
@@ -378,29 +388,3 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
     *	Spring 2012, Electric Circuits [ECSE 2010], by Prof. Jeffrey Braunstein
     *	Spring 2012, Biological Image Analysis [ECSE 4960], by Dr. Jens Rittscher and Dr. Dirk Padfield
     *	Fall 2012, Modeling and Analysis of Uncertainty [ENGR 2600], by Prof. Charles J. Malmborg
-
-## Project Websites
-
-*	AGSM: Active Geometric Shape Models
-    *	[Official project wiki](https://sites.google.com/site/agsmwiki/)
-    *	[Demo video](https://www.youtube.com/watch?v=c6Vto4VN5GA)
-
-*	COSBOS: COlor-Sensor-Based Occupancy Sensing
-    *	[Official project wiki](https://sites.google.com/site/cosboswiki/)
-    *	[Tech talk](https://www.youtube.com/watch?v=Gby3XJEJ7H8)
-
-*	My MATLAB Central
-    *	[Website](http://www.mathworks.com/matlabcentral/fileexchange/authors/130634)
-    *	20,000+ downloads in total (number obtained in 2016)
-
-*	Multispeaker Text-To-Speech Synthesis
-    *	[Audio samples](https://google.github.io/tacotron/publications/speaker_adaptation)
-
-* VoiceFilter
-    * [Audio samples](https://google.github.io/speaker-id/publications/VoiceFilter/)
-
-* UIS-RNN: Unbounded Interleaved-State Recurrent Neural Network
-    * [GitHub](https://github.com/google/uis-rnn)
-
-* MLFont: Learning Better Font Slicing Strategies from Data
-    * [Wiki](https://google.github.io/speaker-id/publications/MLFont/)
