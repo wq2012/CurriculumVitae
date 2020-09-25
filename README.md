@@ -28,7 +28,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ## Media Coverage
 
-* Book on Voice Identity Technologies: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)]
+* Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)]
 
 * Diarization and UIS-RNN:
     * Official:
@@ -182,7 +182,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ### Books
 
-*   **Quan Wang**, "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese), Publishing House of Electronics Industry (PHEI), September 2020. [[GitHub](https://github.com/wq2012/VoiceIdentityBook)] [[buy](https://item.jd.com/12970526.html)]
+*   **Quan Wang**, "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese), Publishing House of Electronics Industry (PHEI), September 2020. [[GitHub](https://github.com/wq2012/VoiceIdentityBook)] [[JD](https://item.jd.com/12970526.html)] [[TMall](https://detail.tmall.com/item.htm?id=628032618898)] [[DangDang](http://product.dangdang.com/29130997.html)]
 
 ### Journal Publications
 
