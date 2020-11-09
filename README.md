@@ -28,7 +28,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ## Media Coverage
 
-* Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)]
+* Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
 * Diarization and UIS-RNN:
     * Official:
