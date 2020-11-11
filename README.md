@@ -30,6 +30,11 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
+* VoiceFilter-Lite:
+    * Official:
+    [[Google AI Blog](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html)]
+    [[Google AI official tweet](https://twitter.com/GoogleAI/status/1326661322746941440)]
+
 * Diarization and UIS-RNN:
     * Official:
     [[Google AI Blog](https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html)]
