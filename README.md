@@ -34,6 +34,14 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     * Official:
     [[Google AI Blog](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html)]
     [[Google AI official tweet](https://twitter.com/GoogleAI/status/1326661322746941440)]
+    * English:
+    [[TheNextWeb](https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/)]
+    [[apk9to5](https://www.apk9to5.com/2020/11/12/just-2-2-mb-of-speech-recognition-algorithm-from-google/)]
+    * Turkish:
+    [[teknotalk](https://www.teknotalk.com/yalnizca-22-mb-boyutuyla-googlein-yeni-konusma-filtreleme-teknolojisi-79498/)]
+    [[webtekno](https://www.webtekno.com/google-ses-tanima-algoritmasi-voicefilter-h102015.html)]
+    * Japanese:
+    [[webbigdata.jp](https://webbigdata.jp/ai/post-7762)]
 
 * Diarization and UIS-RNN:
     * Official:
@@ -59,6 +67,8 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
         [[智东西快讯](http://zhidx.com/news/9005.html)]
         [[报价宝](http://www.baojiabao.com/bjbnews/zh201811131700226357.html)]
         [[HiNet](https://times.hinet.net/news/22076118)]
+        [[IT经理网](https://www.ctocio.com/ccnews/28155.html)]
+        [[贤集网](https://www.xianjichina.com/news/details_91094.html)]
         * Included in:
         [[机器之心AI每日精选](https://www.jiqizhixin.com/topics/2018-11-13)]
         [[人工智能半月刊](http://finance.sina.com.cn/stock/stockzmt/2018-11-17/doc-ihnyuqhh3951826.shtml)]
@@ -77,6 +87,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     * Chinese:
     [[机器之心](https://www.jiqizhixin.com/articles/2018-10-17-8)]
     [[新智元](https://mp.weixin.qq.com/s/2DaBsFnRzqkf9PgvY3tWqw)]
+    [[搜狐](https://www.sohu.com/a/259595992_100085595)]
     [[简书Tech blog](https://www.jianshu.com/p/6d0c27200c01)]
     * Russian:
     [[Tproger](https://tproger.ru/news/google-pick-out-voice/)]
