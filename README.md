@@ -37,11 +37,26 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     * English:
     [[TheNextWeb](https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/)]
     [[apk9to5](https://www.apk9to5.com/2020/11/12/just-2-2-mb-of-speech-recognition-algorithm-from-google/)]
+    [[Somag News](https://www.somagnews.com/google-voice-recognition-algorithm-voicefilter/)]
+    [[Silicon Canals](https://siliconcanals.com/news/google-voicefilter-lite-voice-command/)]
+    [[AndroidFist](https://androidfist.com/google-improves-on-device-speech-recognition-with-voicefilter-lite/)]
+    * Chinese:
+    [[Google News App](https://www.googlenewsapp.com/improving-on-device-speech-recognition-with-voicefilter-lite/)]
+    [[新经网](https://www.xinhuatone.com/AI/202011/30604.html)]
+    [[iThome](https://www.ithome.com.tw/news/141072)]
+    [[HiNet](https://times.hinet.net/news/23117109)]
+    * Spanish:
+    [[Nuevo Periodico](https://nuevoperiodico.com/con-solo-22-mb-la-nueva-tecnologia-de-filtrado-de-voz-de-google-es-perfecta-para-aplicaciones-moviles/)]
+    [[nobbot](https://www.nobbot.com/tecnologia/aplicaciones-moviles-tecnologia/reconocimiento-de-voz-google/)]
     * Turkish:
     [[teknotalk](https://www.teknotalk.com/yalnizca-22-mb-boyutuyla-googlein-yeni-konusma-filtreleme-teknolojisi-79498/)]
     [[webtekno](https://www.webtekno.com/google-ses-tanima-algoritmasi-voicefilter-h102015.html)]
+    [[TechInside](https://www.techinside.com/google-voicefilter-icin-yeni-surum-duyurdu/)]
+    [[Trendoa.com](https://www.trendoa.com/googledan-sadece-22-mblik-ses-tanima-algoritmasi.html)]
     * Japanese:
     [[webbigdata.jp](https://webbigdata.jp/ai/post-7762)]
+    * Russian:
+    [[Neurohive](https://neurohive.io/ru/vidy-nejrosetej/voicefilter-lite-legkovesnaya-arhitektura-dlya-raspoznavaniya-rechi/)]
 
 * Diarization and UIS-RNN:
     * Official:
