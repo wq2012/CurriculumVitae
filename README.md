@@ -40,7 +40,12 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     [[Somag News](https://www.somagnews.com/google-voice-recognition-algorithm-voicefilter/)]
     [[Silicon Canals](https://siliconcanals.com/news/google-voicefilter-lite-voice-command/)]
     [[AndroidFist](https://androidfist.com/google-improves-on-device-speech-recognition-with-voicefilter-lite/)]
+    [[eyerys](https://www.eyerys.com/articles/news/how-googles-voicefilter-lite-can-significantly-improve-device-speech-recognition)]
+    [[Medium](https://medium.com/dev-genius/androids-voicefilter-lite-can-recognize-the-speaker-svoice-2c215fb86a15)]
     * Chinese:
+    [[机器之心](https://mp.weixin.qq.com/s/hOfdyUH4AhUA1rmkZprVIQ)]
+    [[搜狐](https://www.sohu.com/a/431787490_129720)]
+    [[新浪](https://tech.sina.com.cn/roll/2020-11-14/doc-iiznezxs1815483.shtml)]
     [[Google News App](https://www.googlenewsapp.com/improving-on-device-speech-recognition-with-voicefilter-lite/)]
     [[新经网](https://www.xinhuatone.com/AI/202011/30604.html)]
     [[iThome](https://www.ithome.com.tw/news/141072)]
@@ -57,6 +62,8 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     [[webbigdata.jp](https://webbigdata.jp/ai/post-7762)]
     * Russian:
     [[Neurohive](https://neurohive.io/ru/vidy-nejrosetej/voicefilter-lite-legkovesnaya-arhitektura-dlya-raspoznavaniya-rechi/)]
+    * Arabic:
+    [[aitnews](https://aitnews.com/2020/11/14/%D8%AC%D9%88%D8%AC%D9%84-%D8%AA%D8%AD%D8%B3%D9%86-%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D8%A7%D9%85%D8%B1-%D8%A7%D9%84%D8%B5%D9%88%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D8%A8/)]
 
 * Diarization and UIS-RNN:
     * Official:
