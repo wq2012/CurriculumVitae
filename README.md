@@ -41,11 +41,13 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     [[Silicon Canals](https://siliconcanals.com/news/google-voicefilter-lite-voice-command/)]
     [[AndroidFist](https://androidfist.com/google-improves-on-device-speech-recognition-with-voicefilter-lite/)]
     [[eyerys](https://www.eyerys.com/articles/news/how-googles-voicefilter-lite-can-significantly-improve-device-speech-recognition)]
+    [[voicebot.ai](https://voicebot.ai/2020/11/16/google-demonstrates-new-speech-recognition-model-for-mobile-use/)]
     [[Medium](https://medium.com/dev-genius/androids-voicefilter-lite-can-recognize-the-speaker-svoice-2c215fb86a15)]
     * Chinese:
     [[机器之心](https://mp.weixin.qq.com/s/hOfdyUH4AhUA1rmkZprVIQ)]
     [[搜狐](https://www.sohu.com/a/431787490_129720)]
     [[新浪](https://tech.sina.com.cn/roll/2020-11-14/doc-iiznezxs1815483.shtml)]
+    [[声纹圈](https://mp.weixin.qq.com/s/9DB9pn0rboZIXVSsJ6rjTA)]
     [[Google News App](https://www.googlenewsapp.com/improving-on-device-speech-recognition-with-voicefilter-lite/)]
     [[新经网](https://www.xinhuatone.com/AI/202011/30604.html)]
     [[iThome](https://www.ithome.com.tw/news/141072)]
