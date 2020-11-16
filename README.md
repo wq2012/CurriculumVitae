@@ -42,6 +42,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     [[AndroidFist](https://androidfist.com/google-improves-on-device-speech-recognition-with-voicefilter-lite/)]
     [[eyerys](https://www.eyerys.com/articles/news/how-googles-voicefilter-lite-can-significantly-improve-device-speech-recognition)]
     [[voicebot.ai](https://voicebot.ai/2020/11/16/google-demonstrates-new-speech-recognition-model-for-mobile-use/)]
+    [[kouragoal.com](https://kouragoal.com/google-improves-voice-command-features-for-apps/)]
     [[Medium](https://medium.com/dev-genius/androids-voicefilter-lite-can-recognize-the-speaker-svoice-2c215fb86a15)]
     * Chinese:
     [[机器之心](https://mp.weixin.qq.com/s/hOfdyUH4AhUA1rmkZprVIQ)]
@@ -398,6 +399,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 *   **Quan Wang**, Ye Jia, Zhifeng Chen, Yonghui Wu, Jonathan Shen, Ruoming Pang, Ron J. Weiss, Ignacio Lopez Moreno, Fei Ren, Yu Zhang, Patrick An Phu Nguyen, [Synthesis of speech from text in a voice of a target speaker using neural networks](https://patents.google.com/patent/WO2019222591A1) [[PDF](https://patentimages.storage.googleapis.com/64/70/a2/267ac141ed1688/WO2019222591A1.pdf)]
 
 *   **Quan Wang**, Pu-sen Chao, Diego Melendo Casado, Ignacio Lopez Moreno, [Text independent speaker recognition](https://patents.google.com/patent/WO2020117639A2/) [[PDF](https://patentimages.storage.googleapis.com/d4/c5/c6/3e29f6698d5841/WO2020117639A2.pdf)]
+
+*  **Quan Wang**, Prashant Sridhar, Ignacio Lopez Moreno, Hannah Muckenhirn, [TARGETED VOICE SEPARATION BY SPEAKER CONDITIONED ON SPECTROGRAM MASKING](https://www.freepatentsonline.com/y2020/0202869.html) [[PDF](https://www.freepatentsonline.com/20200202869.pdf)]
 
 ## Reviewing
 
