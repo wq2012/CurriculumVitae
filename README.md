@@ -117,6 +117,8 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
     * Russian:
     [[Tproger](https://tproger.ru/news/google-pick-out-voice/)]
 
+*   Synth2Aug: [[声纹圈](https://mp.weixin.qq.com/s/H8RpUMMKB8XBnKRgXAhm6g)]
+
 *	Multispeaker Text-to-Speech:
 [[机器之心](https://www.jiqizhixin.com/articles/062404)] [[Two Minute Papers](https://www.youtube.com/watch?v=0sR1rU3gLzQ)]
 
@@ -241,6 +243,8 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 *   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speech", Computer Speech & Language, Volume 64, doi:10.1016/j.csl.2020.101114. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0885230820300474)] [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
 
 ### Conference Publications
+
+*  Yiling Huang, Yutian Chen, Jason Pelecanos, **Quan Wang**, "Synth2Aug: Cross-domain speaker recognition with TTS synthesized speech", IEEE Spoken Language Technology Workshop (SLT), 2021. [[PDF](https://arxiv.org/pdf/2011.11818.pdf)]
 
 *  Shaojin Ding, Ye Jia, Ke Hu, **Quan Wang**, "Textual Echo Cancellation", arXiv:2008.06006 [*eess.AS*], 2020.
 [[PDF](https://arxiv.org/pdf/2008.06006.pdf)]
