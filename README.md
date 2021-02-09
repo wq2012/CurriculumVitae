@@ -406,6 +406,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 *  **Quan Wang**, Prashant Sridhar, Ignacio Lopez Moreno, Hannah Muckenhirn, [TARGETED VOICE SEPARATION BY SPEAKER CONDITIONED ON SPECTROGRAM MASKING](https://www.freepatentsonline.com/y2020/0202869.html) [[PDF](https://www.freepatentsonline.com/20200202869.pdf)]
 
+*  **Quan Wang**, Chong Wang, Aonan Zhang, Zhenyao Zhu, [Fully Supervised Speaker Diarization](https://patents.google.com/patent/US20200219517A1/) [[PDF](https://patentimages.storage.googleapis.com/3c/a6/b2/d498594ee0b168/US20200219517A1.pdf)]
+
 ## Reviewing
 
 *   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
