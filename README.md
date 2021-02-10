@@ -218,6 +218,9 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ## Awards
 
+*   **Distinguished Author** of Year 2020
+    *   Awarded by Publishing House of Electronics Industry (PHEI).
+
 *	The **Allen B. Dumont Prize**, 2015
     *	This prize is awarded to a graduate student who has demonstrated high scholastic ability and has made a substantial contribution to that field.
 
