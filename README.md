@@ -247,6 +247,10 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ### Conference Publications
 
+* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", arXiv:2104.02125 [*eess.AS*], 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+
+* Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", arXiv:2104.01989 [*cs.CL*], 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
+
 *  Yiling Huang, Yutian Chen, Jason Pelecanos, **Quan Wang**, "Synth2Aug: Cross-domain speaker recognition with TTS synthesized speech", IEEE Spoken Language Technology Workshop (SLT), 2021. [[PDF](https://arxiv.org/pdf/2011.11818.pdf)]
 
 *  Shaojin Ding, Ye Jia, Ke Hu, **Quan Wang**, "Textual Echo Cancellation", arXiv:2008.06006 [*eess.AS*], 2020.
@@ -428,6 +432,7 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Students
 
+*   Wei Xia, 2021 Google summer intern, Ph.D.
 *   Shaojin Ding, 2019 & 2020 Google summer intern, Ph.D.
 *   Aonan Zhang, 2018 Google summer intern & 2018 Google Student Researcher, Ph.D.
 *   Hannah Muckenhirn, 2018 Google summer intern, Ph.D.
