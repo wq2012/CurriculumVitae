@@ -257,7 +257,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 [[PDF](https://arxiv.org/pdf/2008.06006.pdf)]
 
 *  **Quan Wang**, Ignacio Lopez Moreno, Mert Saglam, Kevin Wilson, Alan Chiao, Renjie Liu, Yanzhang He, Wei Li, Jason Pelecanos, Marily Nika, Alexander Gruenstein, "VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition", Interspeech 2020. [[PDF](https://arxiv.org/pdf/2009.04323.pdf)]
-[[website](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)]
+[[website](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)] [[Google AI Blog](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html)]
 
 *   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", arXiv:2007.12069 [*eess.AS*], 2020.
 [[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
