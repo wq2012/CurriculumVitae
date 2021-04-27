@@ -247,7 +247,7 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ### Conference Publications
 
-* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", arXiv:2104.02125 [*eess.AS*], 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", arXiv:2104.02125 [*eess.AS*], 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
 
 * Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", arXiv:2104.01989 [*cs.CL*], 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
 
