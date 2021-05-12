@@ -377,6 +377,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Acknowledged by
 
+*   Soumi Maiti, Hakan Erdogan, Kevin Wilson, Scott Wisdom, Shinji Watanabe, John R. Hershey, "End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings", arXiv:2105.02096 [cs.SD]. [[PDF](https://arxiv.org/pdf/2105.02096.pdf)]
+
 *   ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge Evaluation Plan, 2019. [[PDF](http://www.asvspoof.org/asvspoof2019/asvspoof2019_evaluation_plan.pdf)]
 
 *	Ye Jia, Ron J. Weiss, Fadi Biadsy, Wolfgang Macherey, Melvin Johnson, Zhifeng Chen, Yonghui Wu, "Direct speech-to-speech translation with a sequence-to-sequence model", arXiv:1904.06037 [*cs.CL*].
