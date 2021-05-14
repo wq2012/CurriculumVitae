@@ -9,7 +9,7 @@
 
 ## News
 
-My new book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
+My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
 
 ## Research Interests
 
@@ -249,13 +249,19 @@ My new book "Voice Identity Techniques: From core algorithms to engineering prac
 
 ### Conference Publications
 
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden)Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", arXiv:2104.13970 [eess.AS], 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
+
+* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", arXiv:2104.02125 [*eess.AS*], 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+
+* Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", arXiv:2104.01989 [*cs.CL*], 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
+
 *  Yiling Huang, Yutian Chen, Jason Pelecanos, **Quan Wang**, "Synth2Aug: Cross-domain speaker recognition with TTS synthesized speech", IEEE Spoken Language Technology Workshop (SLT), 2021. [[PDF](https://arxiv.org/pdf/2011.11818.pdf)]
 
 *  Shaojin Ding, Ye Jia, Ke Hu, **Quan Wang**, "Textual Echo Cancellation", arXiv:2008.06006 [*eess.AS*], 2020.
 [[PDF](https://arxiv.org/pdf/2008.06006.pdf)]
 
 *  **Quan Wang**, Ignacio Lopez Moreno, Mert Saglam, Kevin Wilson, Alan Chiao, Renjie Liu, Yanzhang He, Wei Li, Jason Pelecanos, Marily Nika, Alexander Gruenstein, "VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition", Interspeech 2020. [[PDF](https://arxiv.org/pdf/2009.04323.pdf)]
-[[website](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)]
+[[website](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)] [[Google AI Blog](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html)]
 
 *   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", arXiv:2007.12069 [*eess.AS*], 2020.
 [[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
@@ -373,6 +379,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Acknowledged by
 
+*   Soumi Maiti, Hakan Erdogan, Kevin Wilson, Scott Wisdom, Shinji Watanabe, John R. Hershey, "End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings", arXiv:2105.02096 [cs.SD]. [[PDF](https://arxiv.org/pdf/2105.02096.pdf)]
+
 *   ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge Evaluation Plan, 2019. [[PDF](http://www.asvspoof.org/asvspoof2019/asvspoof2019_evaluation_plan.pdf)]
 
 *	Ye Jia, Ron J. Weiss, Fadi Biadsy, Wolfgang Macherey, Melvin Johnson, Zhifeng Chen, Yonghui Wu, "Direct speech-to-speech translation with a sequence-to-sequence model", arXiv:1904.06037 [*cs.CL*].
@@ -430,6 +438,7 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Students
 
+*   Wei Xia, 2021 Google summer intern, Ph.D.
 *   Shaojin Ding, 2019 & 2020 Google summer intern, Ph.D.
 *   Aonan Zhang, 2018 Google summer intern & 2018 Google Student Researcher, Ph.D.
 *   Hannah Muckenhirn, 2018 Google summer intern, Ph.D.
