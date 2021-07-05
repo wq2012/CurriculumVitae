@@ -251,7 +251,7 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 
 * Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Multi-user VoiceFilter-Lite via Attentive Speaker Embedding", arXiv:2107.01201 [eess.AS], 2021. [[PDF](https://arxiv.org/pdf/2107.01201.pdf)]
 
-* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden)Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden) Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
 
 * Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
 
