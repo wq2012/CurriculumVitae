@@ -249,11 +249,13 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 
 ### Conference Publications
 
-* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden)Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", arXiv:2104.13970 [eess.AS], 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Multi-user VoiceFilter-Lite via Attentive Speaker Embedding", arXiv:2107.01201 [eess.AS], 2021. [[PDF](https://arxiv.org/pdf/2107.01201.pdf)]
 
-* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", arXiv:2104.02125 [*eess.AS*], 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden)Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
 
-* Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", arXiv:2104.01989 [*cs.CL*], 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
+* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+
+* Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
 
 *  Yiling Huang, Yutian Chen, Jason Pelecanos, **Quan Wang**, "Synth2Aug: Cross-domain speaker recognition with TTS synthesized speech", IEEE Spoken Language Technology Workshop (SLT), 2021. [[PDF](https://arxiv.org/pdf/2011.11818.pdf)]
 
