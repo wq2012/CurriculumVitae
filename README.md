@@ -381,6 +381,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Acknowledged by
 
+* Ye Jia, Michelle Tadmor Ramanovich, Tal Remez, Roi Pomerantz, "Translatotron 2: Robust direct speech-to-speech translation", arXiv preprint arXiv:2107.08661 [cs.CL]. [[PDF](https://arxiv.org/pdf/2107.08661.pdf)]
+
 *   Soumi Maiti, Hakan Erdogan, Kevin Wilson, Scott Wisdom, Shinji Watanabe, John R. Hershey, "End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings", arXiv:2105.02096 [cs.SD]. [[PDF](https://arxiv.org/pdf/2105.02096.pdf)]
 
 *   ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge Evaluation Plan, 2019. [[PDF](http://www.asvspoof.org/asvspoof2019/asvspoof2019_evaluation_plan.pdf)]
