@@ -442,7 +442,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Other
 
-* Session chair: Interspeech 2021
+* **Session chair** - [Interspeech 2021](https://www.interspeech2021.org/): Language and Accent Recognition
+* **Interviewee** - [Interspeech 2020 Tutorial](http://www.interspeech2020.org/Program/Tutorials/): Neural Models for Speaker Diarization in the Context of Speech Recognition
 
 ## Teaching and Mentoring
 
