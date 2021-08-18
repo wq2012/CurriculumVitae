@@ -425,7 +425,9 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 *  **Quan Wang**, Chong Wang, Aonan Zhang, Zhenyao Zhu, [Fully Supervised Speaker Diarization](https://patents.google.com/patent/US20200219517A1/) [[PDF](https://patentimages.storage.googleapis.com/3c/a6/b2/d498594ee0b168/US20200219517A1.pdf)]
 
-## Reviewing
+## Academic service
+
+### Reviewing
 
 *   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
 *   [IEEE Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing)
@@ -437,6 +439,10 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 *	SIBGRAPI Conference on Graphics, Patterns, and Images 2014
 *	VISAPP International Conference on Computer Vision Theory and Applications 2014
 *   International Joint Conference on Artificial Intelligence (IJCAI) 2019
+
+### Other
+
+* Session chair: Interspeech 2021
 
 ## Teaching and Mentoring
 
