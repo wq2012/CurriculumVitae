@@ -249,7 +249,11 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 
 ### Conference Publications
 
-* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Multi-user VoiceFilter-Lite via Attentive Speaker Embedding", arXiv:2107.01201 [eess.AS], 2021. [[PDF](https://arxiv.org/pdf/2107.01201.pdf)]
+* Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
+
+* Tom O'Malley, Arun Narayanan, **Quan Wang**, Alex Park, James Walker, Nathan Howard, "A Conformer-Based ASR Frontend For Joint Acoustic Echo Cancellation, Speech Enhancement and Speech Separation", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
+
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Multi-user VoiceFilter-Lite via Attentive Speaker Embedding", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2107.01201.pdf)]
 
 * Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden) Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
 
@@ -259,7 +263,7 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 
 *  Yiling Huang, Yutian Chen, Jason Pelecanos, **Quan Wang**, "Synth2Aug: Cross-domain speaker recognition with TTS synthesized speech", IEEE Spoken Language Technology Workshop (SLT), 2021. [[PDF](https://arxiv.org/pdf/2011.11818.pdf)]
 
-*  Shaojin Ding, Ye Jia, Ke Hu, **Quan Wang**, "Textual Echo Cancellation", arXiv:2008.06006 [*eess.AS*], 2020.
+*  Shaojin Ding, Ye Jia, Ke Hu, **Quan Wang**, "Textual Echo Cancellation", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
 [[PDF](https://arxiv.org/pdf/2008.06006.pdf)]
 
 *  **Quan Wang**, Ignacio Lopez Moreno, Mert Saglam, Kevin Wilson, Alan Chiao, Renjie Liu, Yanzhang He, Wei Li, Jason Pelecanos, Marily Nika, Alexander Gruenstein, "VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition", Interspeech 2020. [[PDF](https://arxiv.org/pdf/2009.04323.pdf)]
