@@ -453,7 +453,7 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Students
 
-*   Wei Xia, 2021 Google summer intern, Ph.D.
+*   Wei Xia, 2021 Google summer intern & 2021 Google Student Researcher, Ph.D.
 *   Shaojin Ding, 2019 & 2020 Google summer intern, Ph.D.
 *   Aonan Zhang, 2018 Google summer intern & 2018 Google Student Researcher, Ph.D.
 *   Hannah Muckenhirn, 2018 Google summer intern, Ph.D.
