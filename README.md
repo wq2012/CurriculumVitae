@@ -124,7 +124,10 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 *	Multispeaker Text-to-Speech:
 [[机器之心](https://www.jiqizhixin.com/articles/062404)] [[Two Minute Papers](https://www.youtube.com/watch?v=0sR1rU3gLzQ)]
 
-*   Speech-to-speech translation:
+*   Translatotron2:
+    * Official: [[Google AI Blog](https://ai.googleblog.com/2021/09/high-quality-robust-and-responsible.html)]
+
+*   Translatotron:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)]
     [[Google AI official tweet](https://twitter.com/GoogleAI/status/1128732845566976000)]
     * English: [[VentureBeat](https://venturebeat.com/2019/05/15/googles-translatotron-is-an-end-to-end-model-that-mimics-human-voices/)]
