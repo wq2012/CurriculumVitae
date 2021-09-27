@@ -126,6 +126,7 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 
 *   Translatotron2:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2021/09/high-quality-robust-and-responsible.html)]
+    * English: [[VentureBeat](https://venturebeat.com/2021/07/23/googles-translatotron-2-removes-ability-to-deepfake-voices/)] [[voicebot.ai](https://voicebot.ai/2021/07/27/googles-translatotron-2-improves-linguistic-shifts-without-the-deepfake-potential/)] [[slator](https://slator.com/google-ups-ante-in-speech-to-speech-translation-with-robust-translatotron-2/)] [[Analytics India Magazine](https://analyticsindiamag.com/google-releases-new-version-of-translatotron-its-end-to-end-speech-translation-model/)] [[MarkTechPost](https://www.marktechpost.com/2021/08/07/google-ai-introduces-translatotron-2-a-neural-direct-speech-to-speech-translation-model-without-the-deepfake-potential/)]
 
 *   Translatotron:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)]
@@ -201,6 +202,7 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
     *	Manager: Dr. Ignacio Lopez Moreno
     *	"OK Google" voice search & actions
     *	Speaker identification and speaker diarization
+    *   Language recognition and diarization
     *	VoiceFilter source separation
     *	Learning-based font loading (MLFont)
 
@@ -251,6 +253,9 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 *   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speech", Computer Speech & Language, Volume 64, doi:10.1016/j.csl.2020.101114. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0885230820300474)] [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
 
 ### Conference Publications
+
+* Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", arXiv:2109.11641 [*eess.AS*], 2021.
+[[PDF](https://arxiv.org/pdf/2109.11641.pdf)]
 
 * Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
 
