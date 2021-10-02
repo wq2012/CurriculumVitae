@@ -13,8 +13,11 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 
 ## Research Interests
 
+I lead the **Speaker, Voice & Language** team at Google.
+
 ### Recent
-*	Speaker identification and diarization
+*	Speaker recognition and diarization
+*   Language recognition
 *	Source separation and speech enhancement
 *	Text-to-speech synthesis
 *	Deep learning
@@ -29,6 +32,10 @@ My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voic
 ## Media Coverage
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
+
+* Google Cloud Speaker ID
+    * Official: [[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-announces-speaker-id)] [[Homepage](https://cloud.google.com/speaker-id)]
+    * English: [[SiliconANGLE](https://siliconangle.com/2021/10/01/speaker-id-callers-can-now-use-voice-authenticate/)]
 
 * VoiceFilter-Lite:
     * Official:
