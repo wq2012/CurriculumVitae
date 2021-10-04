@@ -34,7 +34,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
 * Google Cloud Speaker ID
-    * Official: [[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-announces-speaker-id)] [[Homepage](https://cloud.google.com/speaker-id)]
+    * Official: [[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-announces-speaker-id)] [[Homepage](https://cloud.google.com/speaker-id)] [[Google Cloud official tweet](https://twitter.com/googlecloud/status/1444106862933250055)]
     * English: [[SiliconANGLE](https://siliconangle.com/2021/10/01/speaker-id-callers-can-now-use-voice-authenticate/)]
     * Dutch: [[TechZine](https://www.techzine.nl/nieuws/cloud/467674/google-verbetert-contactcenter-automatisering-met-speaker-id/)]
 
