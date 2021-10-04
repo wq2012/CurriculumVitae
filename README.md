@@ -35,7 +35,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Google Cloud Speaker ID
     * Official: [[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-announces-speaker-id)] [[Homepage](https://cloud.google.com/speaker-id)] [[Google Cloud official tweet](https://twitter.com/googlecloud/status/1444106862933250055)]
-    * English: [[SiliconANGLE](https://siliconangle.com/2021/10/01/speaker-id-callers-can-now-use-voice-authenticate/)]
+    * English: [[SiliconANGLE](https://siliconangle.com/2021/10/01/speaker-id-callers-can-now-use-voice-authenticate/)] [[Techzine](https://www.techzine.eu/news/cloud/66435/google-clouds-speaker-id-adds-speech-identification/)]
     * Dutch: [[TechZine](https://www.techzine.nl/nieuws/cloud/467674/google-verbetert-contactcenter-automatisering-met-speaker-id/)]
 
 * VoiceFilter-Lite:
