@@ -37,7 +37,7 @@ I lead the **Speaker, Voice & Language** team at Google.
     * Official: [[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-announces-speaker-id)] [[Homepage](https://cloud.google.com/speaker-id)] [[Google Cloud official tweet](https://twitter.com/googlecloud/status/1444106862933250055)] [[YouTube](https://www.youtube.com/watch?v=EvCQzIcphOc)]
     * English: [[SiliconANGLE](https://siliconangle.com/2021/10/01/speaker-id-callers-can-now-use-voice-authenticate/)] [[Techzine](https://www.techzine.eu/news/cloud/66435/google-clouds-speaker-id-adds-speech-identification/)] [[TheRegister](https://www.theregister.com/2021/10/06/google_speech_id/)] [[BiometricUpdate](https://www.biometricupdate.com/202110/google-adds-voice-biometrics-to-contact-center-ai-platform)]
     * Dutch: [[TechZine](https://www.techzine.nl/nieuws/cloud/467674/google-verbetert-contactcenter-automatisering-met-speaker-id/)]
-    * Chinese: [[TensorFlow公众号](https://mp.weixin.qq.com/s/ZC3-UyrIKbhGTi88WQKyAQ)] [[HiNet](https://times.hinet.net/news/23537105)]
+    * Chinese: [[TensorFlow公众号](https://mp.weixin.qq.com/s/ZC3-UyrIKbhGTi88WQKyAQ)] [[HiNet](https://times.hinet.net/news/23537105)] [[iThome](https://www.ithome.com.tw/news/147070)]
 
 * VoiceFilter-Lite:
     * Official:
