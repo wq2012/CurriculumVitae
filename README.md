@@ -136,6 +136,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 *   Translatotron2:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2021/09/high-quality-robust-and-responsible.html)]
     * English: [[VentureBeat](https://venturebeat.com/2021/07/23/googles-translatotron-2-removes-ability-to-deepfake-voices/)] [[voicebot.ai](https://voicebot.ai/2021/07/27/googles-translatotron-2-improves-linguistic-shifts-without-the-deepfake-potential/)] [[slator](https://slator.com/google-ups-ante-in-speech-to-speech-translation-with-robust-translatotron-2/)] [[Analytics India Magazine](https://analyticsindiamag.com/google-releases-new-version-of-translatotron-its-end-to-end-speech-translation-model/)] [[MarkTechPost](https://www.marktechpost.com/2021/08/07/google-ai-introduces-translatotron-2-a-neural-direct-speech-to-speech-translation-model-without-the-deepfake-potential/)]
+    * Chinese: [[TensorFlow公众号](https://mp.weixin.qq.com/s/8I_IKgChGLm56pZCJlTJUw)]
 
 *   Translatotron:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)]
