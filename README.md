@@ -267,7 +267,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 * Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", arXiv:2109.11641 [*eess.AS*], 2021.
 [[PDF](https://arxiv.org/pdf/2109.11641.pdf)]
 
-* Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
+* Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2111.00127.pdf)]
 
 * Tom O'Malley, Arun Narayanan, **Quan Wang**, Alex Park, James Walker, Nathan Howard, "A Conformer-Based ASR Frontend For Joint Acoustic Echo Cancellation, Speech Enhancement and Speech Separation", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
 
