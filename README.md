@@ -243,6 +243,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ## Publications
 
+[[Google Scholar](https://scholar.google.com/citations?user=cB62SPcAAAAJ)]
+
 ### Books
 
 *   **Quan Wang**, "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese), Publishing House of Electronics Industry (PHEI), September 2020. [[GitHub](https://github.com/wq2012/VoiceIdentityBook)] [[JD](https://item.jd.com/12970526.html)] [[TMall](https://detail.tmall.com/item.htm?id=628032618898)] [[DangDang](http://product.dangdang.com/29130997.html)]
@@ -269,7 +271,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2111.00127.pdf)]
 
-* Tom O'Malley, Arun Narayanan, **Quan Wang**, Alex Park, James Walker, Nathan Howard, "A Conformer-Based ASR Frontend For Joint Acoustic Echo Cancellation, Speech Enhancement and Speech Separation", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
+* Tom O'Malley, Arun Narayanan, **Quan Wang**, Alex Park, James Walker, Nathan Howard, "A Conformer-Based ASR Frontend For Joint Acoustic Echo Cancellation, Speech Enhancement and Speech Separation", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2111.09935.pdf)]
 
 * Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Multi-user VoiceFilter-Lite via Attentive Speaker Embedding", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2107.01201.pdf)]
 
