@@ -266,6 +266,9 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+* Ye Jia, Michelle Tadmor Ramanovich, **Quan Wang**, Heiga Zen, "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation", arXiv:2201.03713 [*cs.CL*], 2021.
+[[PDF](https://arxiv.org/pdf/2201.03713.pdf)]
+
 * Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", arXiv:2109.11641 [*eess.AS*], 2021.
 [[PDF](https://arxiv.org/pdf/2109.11641.pdf)]
 
