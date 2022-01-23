@@ -126,6 +126,8 @@ I lead the **Speaker, Voice & Language** team at Google.
     * Russian:
     [[Tproger](https://tproger.ru/news/google-pick-out-voice/)]
 
+*   Joint ASR frontend: [[声纹圈](https://mp.weixin.qq.com/s/OZJIyhkLrYhWDALMtl5Mdw)]
+
 *   Synth2Aug: [[声纹圈](https://mp.weixin.qq.com/s/H8RpUMMKB8XBnKRgXAhm6g)]
 
 *   SpeakerStew: [[声纹圈](https://mp.weixin.qq.com/s?__biz=MzA5OTA4NTkyMA==&mid=2454902168&idx=1&sn=ce8fea8c5b299882871f8ad24b2e3709)] [[语音杂谈](https://mp.weixin.qq.com/s/Tuo9YYdTvdaaDDyYpnO3mQ)]
