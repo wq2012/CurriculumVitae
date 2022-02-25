@@ -268,11 +268,17 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+* **Quan Wang**, Yang Yu, Jason Pelecanos, Yiling Huang, Ignacio Lopez Moreno, "Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech", arXiv:2202.12163 [*eess.AS*], 2022.
+[[PDF](https://arxiv.org/pdf/2202.12163.pdf)]
+
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Closing the Gap between Single-User and Multi-User VoiceFilter-Lite", arXiv:2202.12169 [*eess.AS*], 2022.
+[[PDF](https://arxiv.org/pdf/2202.12169.pdf)]
+
 * Ye Jia, Michelle Tadmor Ramanovich, **Quan Wang**, Heiga Zen, "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation", arXiv:2201.03713 [*cs.CL*], 2021.
-[[PDF](https://arxiv.org/pdf/2201.03713.pdf)]
+[[PDF](https://arxiv.org/pdf/2201.03713.pdf)] [[data](https://github.com/google-research-datasets/cvss)]
 
 * Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", arXiv:2109.11641 [*eess.AS*], 2021.
-[[PDF](https://arxiv.org/pdf/2109.11641.pdf)]
+[[PDF](https://arxiv.org/pdf/2109.11641.pdf)] [[code](https://github.com/wq2012/SpectralCluster)]
 
 * Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2111.00127.pdf)]
 
