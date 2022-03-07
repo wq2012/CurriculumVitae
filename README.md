@@ -33,6 +33,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
+* On-device language identification for Live Caption/Translate: [[Google Pixel Blog](https://blog.google/products/pixel/feature-drop-march-2022/)]
+
 * Google Cloud Speaker ID
     * Official: [[Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-announces-speaker-id)] [[Homepage](https://cloud.google.com/speaker-id)] [[Google Cloud official tweet](https://twitter.com/googlecloud/status/1444106862933250055)] [[YouTube](https://www.youtube.com/watch?v=EvCQzIcphOc)]
     * English: [[SiliconANGLE](https://siliconangle.com/2021/10/01/speaker-id-callers-can-now-use-voice-authenticate/)] [[Techzine](https://www.techzine.eu/news/cloud/66435/google-clouds-speaker-id-adds-speech-identification/)] [[TheRegister](https://www.theregister.com/2021/10/06/google_speech_id/)] [[BiometricUpdate](https://www.biometricupdate.com/202110/google-adds-voice-biometrics-to-contact-center-ai-platform)]
