@@ -270,6 +270,9 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+* Jason Pelecanos, **Quan Wang**, Yiling Huang, Ignacio Lopez Moreno, "Parameter-Free Attentive Scoring for Speaker Verification", arXiv:2203.05642 [*cs.SD*], 2022.
+[[PDF](https://arxiv.org/pdf/2203.05642.pdf)]
+
 * **Quan Wang**, Yang Yu, Jason Pelecanos, Yiling Huang, Ignacio Lopez Moreno, "Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech", arXiv:2202.12163 [*eess.AS*], 2022.
 [[PDF](https://arxiv.org/pdf/2202.12163.pdf)]
 
