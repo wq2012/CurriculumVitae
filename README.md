@@ -9,7 +9,8 @@
 
 ## News
 
-My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
+* Enroll in my online course on Speaker Recognition (English) on [Udemy](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A)
+* My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
 
 ## Research Interests
 
