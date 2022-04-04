@@ -281,7 +281,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 [[PDF](https://arxiv.org/pdf/2202.12169.pdf)]
 
 * Ye Jia, Michelle Tadmor Ramanovich, **Quan Wang**, Heiga Zen, "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation", arXiv:2201.03713 [*cs.CL*], 2021.
-[[PDF](https://arxiv.org/pdf/2201.03713.pdf)] [[data](https://github.com/google-research-datasets/cvss)]
+[[PDF](https://arxiv.org/pdf/2201.03713.pdf)] [[data](https://github.com/google-research-datasets/cvss)] [[Google AI Blog](https://ai.googleblog.com/2022/04/introducing-cvss-massively-multilingual.html)]
 
 * Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", arXiv:2109.11641 [*eess.AS*], 2021.
 [[PDF](https://arxiv.org/pdf/2109.11641.pdf)] [[code](https://github.com/wq2012/SpectralCluster)]
