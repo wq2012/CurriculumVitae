@@ -271,6 +271,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+* Shaojin Ding, Rajeev Rikhye, Qiao Liang, Yanzhang He, **Quan Wang**, Arun Narayanan, Tom O'Malley, Ian McGraw, "Personal VAD 2.0: Optimizing Personal Voice Activity Detection for On-Device Speech Recognition", arXiv:2204.03793 [*eess.AS*], 2022. [[PDF](https://arxiv.org/abs/2204.03793)]
+
 * Jason Pelecanos, **Quan Wang**, Yiling Huang, Ignacio Lopez Moreno, "Parameter-Free Attentive Scoring for Speaker Verification", arXiv:2203.05642 [*cs.SD*], 2022.
 [[PDF](https://arxiv.org/pdf/2203.05642.pdf)]
 
