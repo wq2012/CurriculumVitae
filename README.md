@@ -474,6 +474,7 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Reviewing
 
+*    IEEE Spoken Language Technology Workshop (SLT), 2021
 *   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
 *   [IEEE Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing)
 *	[EURASIP Journal on Image and Video Processing](https://jivp-eurasipjournals.springeropen.com/)
