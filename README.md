@@ -10,6 +10,7 @@
 ## News
 
 * Enroll in my online course on [Speaker Recognition](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A) (English) and [Speaker Diarization](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F) (English) on Udemy.
+* Enroll in my [Speaker Recognition](https://www.shenlanxueyuan.com/course/513) course (Chinese) on ShenLanXueYuan.
 * My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
 
 ## Research Interests
