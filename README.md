@@ -35,7 +35,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
-* Quick Phrases: [[9to5Google](https://9to5google.com/2022/09/06/nest-hub-max-quick-phrases/)] [[Droid Life](https://www.droid-life.com/2022/09/06/quick-phrases-arrive-on-nest-hub-max-with-no-ok-google-needed/)]
+* Quick Phrases: [[9to5Google](https://9to5google.com/2022/09/06/nest-hub-max-quick-phrases/)] [[Droid Life](https://www.droid-life.com/2022/09/06/quick-phrases-arrive-on-nest-hub-max-with-no-ok-google-needed/)] [[The Verge](https://www.theverge.com/2022/9/8/23342903/nest-hub-max-quick-phrases-hey-google)] [[Voicebot.ai](https://voicebot.ai/2022/09/08/google-assistant-adds-quick-phrases-for-skipping-wake-words-to-nest-hub-max/)]
 
 * On-device language identification for Live Caption/Translate: [[Google Pixel Blog](https://blog.google/products/pixel/feature-drop-march-2022/)]
 
