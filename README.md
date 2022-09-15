@@ -276,23 +276,23 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
-* Tom O'Malley, Arun Narayanan, **Quan Wang**, "A Universally-Deployable ASR Frontend for Joint Acoustic Echo Cancellation, Speech Enhancement, and Voice Separation", arXiv:2209.06410 [*eess.AS*], 2022. [[PDF](https://arxiv.org/abs/2209.06410)]
+* Tom O'Malley, Arun Narayanan, **Quan Wang**, "A Universally-Deployable ASR Frontend for Joint Acoustic Echo Cancellation, Speech Enhancement, and Voice Separation", Interspeech, 2022. [[PDF](https://arxiv.org/abs/2209.06410)]
 
-* Shaojin Ding, Rajeev Rikhye, Qiao Liang, Yanzhang He, **Quan Wang**, Arun Narayanan, Tom O'Malley, Ian McGraw, "Personal VAD 2.0: Optimizing Personal Voice Activity Detection for On-Device Speech Recognition", arXiv:2204.03793 [*eess.AS*], 2022. [[PDF](https://arxiv.org/abs/2204.03793)]
+* Shaojin Ding, Rajeev Rikhye, Qiao Liang, Yanzhang He, **Quan Wang**, Arun Narayanan, Tom O'Malley, Ian McGraw, "Personal VAD 2.0: Optimizing Personal Voice Activity Detection for On-Device Speech Recognition", Interspeech, 2022. [[PDF](https://arxiv.org/abs/2204.03793)]
 
-* Jason Pelecanos, **Quan Wang**, Yiling Huang, Ignacio Lopez Moreno, "Parameter-Free Attentive Scoring for Speaker Verification", arXiv:2203.05642 [*cs.SD*], 2022.
+* Jason Pelecanos, **Quan Wang**, Yiling Huang, Ignacio Lopez Moreno, "Parameter-Free Attentive Scoring for Speaker Verification", Odyssey: The Speaker and Language Recognition Workshop, 2022.
 [[PDF](https://arxiv.org/pdf/2203.05642.pdf)]
 
-* **Quan Wang**, Yang Yu, Jason Pelecanos, Yiling Huang, Ignacio Lopez Moreno, "Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech", arXiv:2202.12163 [*eess.AS*], 2022.
+* **Quan Wang**, Yang Yu, Jason Pelecanos, Yiling Huang, Ignacio Lopez Moreno, "Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech", Odyssey: The Speaker and Language Recognition Workshop, 2022.
 [[PDF](https://arxiv.org/pdf/2202.12163.pdf)]
 
-* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Closing the Gap between Single-User and Multi-User VoiceFilter-Lite", arXiv:2202.12169 [*eess.AS*], 2022.
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Closing the Gap between Single-User and Multi-User VoiceFilter-Lite", Odyssey: The Speaker and Language Recognition Workshop, 2022.
 [[PDF](https://arxiv.org/pdf/2202.12169.pdf)]
 
-* Ye Jia, Michelle Tadmor Ramanovich, **Quan Wang**, Heiga Zen, "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation", arXiv:2201.03713 [*cs.CL*], 2021.
+* Ye Jia, Michelle Tadmor Ramanovich, **Quan Wang**, Heiga Zen, "CVSS Corpus and Massively Multilingual Speech-to-Speech Translation", Conference on Language Resources and Evaluation (LREC), 2022.
 [[PDF](https://arxiv.org/pdf/2201.03713.pdf)] [[data](https://github.com/google-research-datasets/cvss)] [[Google AI Blog](https://ai.googleblog.com/2022/04/introducing-cvss-massively-multilingual.html)]
 
-* Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", arXiv:2109.11641 [*eess.AS*], 2021.
+* Wei Xia, Han Lu, **Quan Wang**, Anshuman Tripathi, Ignacio Lopez Moreno, Hasim Sak, "Turn-to-Diarize: Online Speaker Diarization Constrained by Transformer Transducer Speaker Turn Detection", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
 [[PDF](https://arxiv.org/pdf/2109.11641.pdf)] [[code](https://github.com/wq2012/SpectralCluster)]
 
 * Arun Narayanan, Chung-Cheng Chiu, Tom O'Malley, **Quan Wang**, Yanzhang He, "Cross-Attention Conformer for Context Modeling in Speech Enhancement for ASR", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2111.00127.pdf)]
@@ -301,34 +301,34 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Multi-user VoiceFilter-Lite via Attentive Speaker Embedding", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[PDF](https://arxiv.org/pdf/2107.01201.pdf)]
 
-* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden) Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
+* Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden) Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
 
-* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
 
-* Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", Interspeech 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
+* Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
 
 *  Yiling Huang, Yutian Chen, Jason Pelecanos, **Quan Wang**, "Synth2Aug: Cross-domain speaker recognition with TTS synthesized speech", IEEE Spoken Language Technology Workshop (SLT), 2021. [[PDF](https://arxiv.org/pdf/2011.11818.pdf)]
 
 *  Shaojin Ding, Ye Jia, Ke Hu, **Quan Wang**, "Textual Echo Cancellation", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021.
 [[PDF](https://arxiv.org/pdf/2008.06006.pdf)]
 
-*  **Quan Wang**, Ignacio Lopez Moreno, Mert Saglam, Kevin Wilson, Alan Chiao, Renjie Liu, Yanzhang He, Wei Li, Jason Pelecanos, Marily Nika, Alexander Gruenstein, "VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition", Interspeech 2020. [[PDF](https://arxiv.org/pdf/2009.04323.pdf)]
+*  **Quan Wang**, Ignacio Lopez Moreno, Mert Saglam, Kevin Wilson, Alan Chiao, Renjie Liu, Yanzhang He, Wei Li, Jason Pelecanos, Marily Nika, Alexander Gruenstein, "VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition", Interspeech, 2020. [[PDF](https://arxiv.org/pdf/2009.04323.pdf)]
 [[website](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)] [[Google AI Blog](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html)]
 
 *   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", arXiv:2007.12069 [*eess.AS*], 2020.
 [[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
 
-*	Shaojin Ding, **Quan Wang**, Shuo-yiin Chang, Li Wan, Ignacio Lopez Moreno, "Personal VAD: Speaker-Conditioned Voice Activity Detection", Proc. Odyssey 2020 The Speaker and Language Recognition Workshop.
+*	Shaojin Ding, **Quan Wang**, Shuo-yiin Chang, Li Wan, Ignacio Lopez Moreno, "Personal VAD: Speaker-Conditioned Voice Activity Detection", Odyssey: The Speaker and Language Recognition Workshop, 2020.
 [[PDF](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/2.pdf)]
 
-*	Li Wan, Prashant Sridhar, Yang Yu, **Quan Wang**, Ignacio Lopez Moreno, "Tuplemax Loss for Language Identification",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019).
+*	Li Wan, Prashant Sridhar, Yang Yu, **Quan Wang**, Ignacio Lopez Moreno, "Tuplemax Loss for Language Identification",  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.
 [[PDF](https://arxiv.org/pdf/1811.12290.pdf)] [[poster](https://github.com/google/speaker-id/blob/master/publications/Tuplemax/resources/icassp2019_tuplemax_poster.pdf)]
 
-*	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", Interspeech 2019. (ORAL)
+*	**Quan Wang**, Hannah Muckenhirn, Kevin Wilson, Prashant Sridhar, Zelin Wu, John Hershey, Rif A. Saurous, Ron J. Weiss, Ye Jia, Ignacio Lopez Moreno, "VoiceFilter: Targeted Voice Separation by Speaker-Conditioned Spectrogram Masking", Interspeech, 2019. (ORAL)
 [[PDF](https://arxiv.org/pdf/1810.04826.pdf)]
 [[samples](https://google.github.io/speaker-id/publications/VoiceFilter/)]
 
-*	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2019).
+*	Aonan Zhang, **Quan Wang**, Zhenyao Zhu, John Paisley, Chong Wang, "Fully Supervised Speaker Diarization", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.
 [[PDF](https://arxiv.org/pdf/1810.04719.pdf)]
 [[code](https://github.com/google/uis-rnn)] [[poster](https://github.com/google/uis-rnn/blob/master/resources/icassp2019_supervised_diarization_poster.pdf)] [[Google AI Blog](https://ai.googleblog.com/2018/11/accurate-online-speaker-diarization.html)]
 
@@ -342,22 +342,22 @@ I lead the **Speaker, Voice & Language** team at Google.
 [[poster](https://google.github.io/tacotron/publications/speaker_adaptation/poster.pdf)]
 [[Google AI Blog](https://ai.googleblog.com/2018/12/google-at-neurips-2018.html)]
 
-*	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
+*	**Quan Wang**, Carlton Downey, Li Wan, Philip Andrew Mansfield, Ignacio Lopez Moreno, "Speaker Diarization with LSTM", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
 [[PDF](https://arxiv.org/pdf/1710.10468.pdf)]
 [[poster](https://google.github.io/speaker-id/publications/LstmDiarization/resources/icassp2018_diarization_poster.pdf)]
 [[code](https://github.com/wq2012/SpectralCluster)]
 [[wiki](https://google.github.io/speaker-id/publications/LstmDiarization/)]
 
-*	Li Wan, **Quan Wang**, Alan Papir, Ignacio Lopez Moreno, "Generalized End-to-End Loss for Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018). (ORAL)
+*	Li Wan, **Quan Wang**, Alan Papir, Ignacio Lopez Moreno, "Generalized End-to-End Loss for Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018. (ORAL)
 [[PDF](https://arxiv.org/pdf/1710.10467.pdf)]
 [[slides]](https://sigport.org/documents/generalized-end-end-loss-speaker-verification)
 [[wiki](https://google.github.io/speaker-id/publications/GE2E/)]
 
-*	F A Rezaur Rahman Chowdhury, **Quan Wang**, Ignacio Lopez Moreno, Li Wan, "Attention-Based Models for Text-Dependent Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
+*	F A Rezaur Rahman Chowdhury, **Quan Wang**, Ignacio Lopez Moreno, Li Wan, "Attention-Based Models for Text-Dependent Speaker Verification", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
 [[PDF](https://arxiv.org/pdf/1710.10470.pdf)]
 [[poster](https://sigport.org/documents/attention-based-models-text-dependent-speaker-verification)]
 
-*	Alejandro Luebs, Bastiaan Kleijn, Felicia Lim, Florian Stimberg, Jan Skoglund, **Quan Wang**, Thomas Walters, "Wavenet Based Low-Rate Speech Coding", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2018).
+*	Alejandro Luebs, Bastiaan Kleijn, Felicia Lim, Florian Stimberg, Jan Skoglund, **Quan Wang**, Thomas Walters, "Wavenet Based Low-Rate Speech Coding", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
 [[PDF](https://arxiv.org/pdf/1712.01120.pdf)]
 [[poster](https://wangquan.me/files/research/icassp2018_wavenet_poster.pdf)]
 
