@@ -10,7 +10,7 @@
 ## News
 
 * Enroll in my online course on [Speaker Recognition](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A) (English) and [Speaker Diarization](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F) (English) on Udemy.
-* Enroll in my [Speaker Recognition](https://www.shenlanxueyuan.com/course/513) course (Chinese) on ShenLanXueYuan.
+* Enroll in my [Speaker Recognition](https://jmq.xet.tech/s/4j70ZU) course (Chinese) on JiQiZhiXin.
 * My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
 
 ## Research Interests
@@ -34,6 +34,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 ## Media Coverage
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
+
+* Speaker label for Recorder app: [[engadget](https://www.engadget.com/google-recorder-app-speaker-labels-at-a-glance-rain-alerts-baggage-claim-pixel-7-155339727.html)] [[9to5Google](https://9to5google.com/2022/10/06/pixel-recorder-multi-speaker/)] [[TechCrunch](https://techcrunch.com/2022/10/06/google-assistant-gets-an-upgrade-on-pixel-7-with-voice-typing-calling-and-transcription-improvements/)]
 
 * Quick Phrases: [[9to5Google](https://9to5google.com/2022/09/06/nest-hub-max-quick-phrases/)] [[Droid Life](https://www.droid-life.com/2022/09/06/quick-phrases-arrive-on-nest-hub-max-with-no-ok-google-needed/)] [[The Verge](https://www.theverge.com/2022/9/8/23342903/nest-hub-max-quick-phrases-hey-google)] [[Voicebot.ai](https://voicebot.ai/2022/09/08/google-assistant-adds-quick-phrases-for-skipping-wake-words-to-nest-hub-max/)]
 
