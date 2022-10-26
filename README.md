@@ -3,7 +3,7 @@
 
 | Current Occupation| Contact|
 |-------------------|--------|
-| Staff Software Engineer & Tech Lead Manager | Email: [quanrpi@gmail.com](mailto:quanrpi@gmail.com) |
+| Senior Staff Software Engineer & Tech Lead Manager | Email: [quanrpi@gmail.com](mailto:quanrpi@gmail.com) |
 | Google LLC | Web: [wangquan.me](https://wangquan.me/) |
 | New York, NY | LinkedIn: [www.linkedin.com/in/wangquan](https://www.linkedin.com/in/wangquan/) |
 
@@ -218,7 +218,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ## Work Experience
 
-*	2015/11 – Current, *Staff Software Engineer* and *Tech Lead Manager*, **Google**, New York City, NY, USA
+*	2015/11 – Current, *Senior Staff Software Engineer* and *Tech Lead Manager*, **Google**, New York City, NY, USA
     *	Manager: Dr. Ignacio Lopez Moreno
     *	"OK Google" voice search & actions
     *	Speaker identification and speaker diarization
@@ -277,6 +277,9 @@ I lead the **Speaker, Voice & Language** team at Google.
 *   Xin Wang, Junichi Yamagishi, Massimiliano Todisco, Hector Delgado, Andreas Nautsch, Nicholas Evans, Md Sahidullah, Ville Vestman, Tomi Kinnunen, Kong Aik Lee, Lauri Juvela, Paavo Alku, Yu-Huai Peng, Hsin-Te Hwang, Yu Tsao, Hsin-Min Wang, Sebastien Le Maguer, Markus Becker, Fergus Henderson, Rob Clark, Yu Zhang, **Quan Wang**, Ye Jia, Kai Onuma, Koji Mushika, Takashi Kaneda, Yuan Jiang, Li-Juan Liu, Yi-Chiao Wu, Wen-Chin Huang, Tomoki Toda, Kou Tanaka, Hirokazu Kameoka, Ingmar Steiner, Driss Matrouf, Jean-Francois Bonastre, Avashna Govender, Srikanth Ronanki, Jing-Xuan Zhang, Zhen-Hua Ling, "ASVspoof 2019: A large-scale public database of synthesized, converted and replayed speech", Computer Speech & Language, Volume 64, doi:10.1016/j.csl.2020.101114. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0885230820300474)] [[PDF](https://arxiv.org/pdf/1911.01601.pdf)]
 
 ### Conference Publications
+
+*   **Quan Wang**, Yiling Huang, Han Lu, Guanlong Zhao, Ignacio Lopez Moreno, "Highly Efficient Real-Time Streaming and Fully On-Device Speaker Diarization with Multi-Stage Clustering", arXiv:2210.13690 [*eess.AS*], 2022.
+[[PDF](https://arxiv.org/pdf/2210.13690.pdf)]
 
 * Tom O'Malley, Arun Narayanan, **Quan Wang**, "A Universally-Deployable ASR Frontend for Joint Acoustic Echo Cancellation, Speech Enhancement, and Voice Separation", Interspeech, 2022. [[PDF](https://arxiv.org/abs/2209.06410)]
 
