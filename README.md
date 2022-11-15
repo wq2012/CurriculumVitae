@@ -278,6 +278,12 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+*   Beltrán Labrador, Guanlong Zhao, Ignacio López Moreno, Angelo Scorza Scarpati, Liam Fowl, **Quan Wang**, "Exploring Sequence-to-Sequence Transformer-Transducer Models for Keyword Spotting", arXiv:2211.06478 [*eess.AS*], 2022.
+[[PDF](https://arxiv.org/pdf/2211.06478.pdf)]
+
+*   Guanlong Zhao, **Quan Wang**, Han Lu, Yiling Huang, Ignacio Lopez Moreno, "Augmenting Transformer-Transducer Based Speaker Change Detection With Token-Level Training Loss", arXiv:2211.06482 [*eess.AS*], 2022.
+[[PDF](https://arxiv.org/pdf/2211.06482.pdf)]
+
 *   **Quan Wang**, Yiling Huang, Han Lu, Guanlong Zhao, Ignacio Lopez Moreno, "Highly Efficient Real-Time Streaming and Fully On-Device Speaker Diarization with Multi-Stage Clustering", arXiv:2210.13690 [*eess.AS*], 2022.
 [[PDF](https://arxiv.org/pdf/2210.13690.pdf)]
 
