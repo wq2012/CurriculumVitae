@@ -35,7 +35,13 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
-* Speaker label for Recorder app: [[engadget](https://www.engadget.com/google-recorder-app-speaker-labels-at-a-glance-rain-alerts-baggage-claim-pixel-7-155339727.html)] [[9to5Google](https://9to5google.com/2022/10/06/pixel-recorder-multi-speaker/)] [[TechCrunch](https://techcrunch.com/2022/10/06/google-assistant-gets-an-upgrade-on-pixel-7-with-voice-typing-calling-and-transcription-improvements/)]
+* Speaker label for Recorder app:
+    * Official: [[Google AI Blog](https://ai.googleblog.com/2022/12/who-said-what-recorders-on-device.html)] [[Google AI Official tweet](https://twitter.com/GoogleAI/status/1603138933386199040)]
+    * English: [[Android Authority](https://www.androidauthority.com/google-pixel-recorder-speaker-labels-tech-3251520/)] [[9to5Google](https://9to5google.com/2022/12/14/pixel-recorder-speaker-labels-work/)] [[Research Snipers](https://researchsnipers.com/google-explains-how-the-pixel-recorder-app-utilizes-ai-models-to-assign-speaker-labels/)] [[Real Mi Central](https://www.realmicentral.com/2022/12/15/google-details-recorder-speaker-labels-work-tensor-tpu-use-to-save-power/)] [[Chrome Unboxed](https://chromeunboxed.com/pixel-recorder-app-speaker-labels)] [[XDA](https://www.xda-developers.com/pixel-recorder-speaker-labels/)] [[engadget](https://www.engadget.com/google-recorder-app-speaker-labels-at-a-glance-rain-alerts-baggage-claim-pixel-7-155339727.html)] [[TechCrunch](https://techcrunch.com/2022/10/06/google-assistant-gets-an-upgrade-on-pixel-7-with-voice-typing-calling-and-transcription-improvements/)]
+    * Italian: [[TuttoAndroid](https://www.tuttoandroid.net/news/2022/12/15/google-recorder-come-funziona-speaker-labels-973301/)]
+    * Greek: [[SecNews](https://www.secnews.gr/437961/pixel-recorder-4-2-google-prosthese-ta-speaker-labels/)]
+    * Chinese: [[机器之心](https://mp.weixin.qq.com/s/_ly7uW7WE925dli-aM5l8g)]
+
 
 * Quick Phrases: [[9to5Google](https://9to5google.com/2022/09/06/nest-hub-max-quick-phrases/)] [[Droid Life](https://www.droid-life.com/2022/09/06/quick-phrases-arrive-on-nest-hub-max-with-no-ok-google-needed/)] [[The Verge](https://www.theverge.com/2022/9/8/23342903/nest-hub-max-quick-phrases-hey-google)] [[Voicebot.ai](https://voicebot.ai/2022/09/08/google-assistant-adds-quick-phrases-for-skipping-wake-words-to-nest-hub-max/)]
 
