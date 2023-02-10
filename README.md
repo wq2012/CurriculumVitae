@@ -13,6 +13,18 @@
 * Enroll in my [Speaker Recognition](https://jmq.xet.tech/s/4j70ZU) course (Chinese) on JiQiZhiXin.
 * My [award-winning](https://mp.weixin.qq.com/s/QiprULWzfz6ChUCHZyHhwQ) book "Voice Identity Techniques: From core algorithms to engineering practice" (Chinese) can be purchased [here](https://item.jd.com/12970526.html).
 
+## Index
+
+* [Research Interests](#research-interests)
+* [Media Coverage](#media-coverage)
+* [Education](#education)
+* [Work Experience](#work-experience)
+* [Awards](#awards)
+* [Publications](#publications)
+* [Patents](#patents)
+* [Academic Service](#academic-service)
+* [Teaching and Mentoring](#teaching-and-mentoring)
+
 ## Research Interests
 
 I lead the **Speaker, Voice & Language** team at Google.
@@ -495,7 +507,7 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 *  **Quan Wang**, Chong Wang, Aonan Zhang, Zhenyao Zhu, [Fully Supervised Speaker Diarization](https://patents.google.com/patent/US20200219517A1/) [[PDF](https://patentimages.storage.googleapis.com/3c/a6/b2/d498594ee0b168/US20200219517A1.pdf)]
 
-## Academic service
+## Academic Service
 
 ### Reviewing
 
@@ -519,6 +531,13 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 * **Interviewee** - [Interspeech 2020 Tutorial](http://www.interspeech2020.org/Program/Tutorials/): Neural Models for Speaker Diarization in the Context of Speech Recognition
 
 ## Teaching and Mentoring
+
+### Online Courses
+
+* Udemy (English): [Speaker Recognition | By Award Winning Textbook Author](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A)
+* Udemy (English): [A Tutorial on Speaker Diarization
+](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F)
+* 机器之心 (Chinese): [声纹识别：从理论到编程实战](https://jmq.xet.tech/s/4j70ZU)
 
 ### Students
 
