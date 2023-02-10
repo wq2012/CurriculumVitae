@@ -251,12 +251,15 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ## Awards
 
-* [Top 100 case studies of the year, 2021](https://wangquan.me/files/misc/Top100_Summit_Award.JPG)
+* [Annual Best Content Contribution Award, 2022](resources/CircleOfVoiceprint_Best_Content_QuanWang.jpg)
+    *   Awarded by The Circle of Voiceprint
 
-*   [**Distinguished Author** of Year 2020](https://wangquan.me/files/misc/PHEI_author_award.JPG)
+* [Top 100 case studies of the year, 2021](resources/Top100_Summit_Award_QuanWang.jpg)
+
+*   [**Distinguished Author** of Year 2020](resources/PHEI_Author_Award_QuanWang.jpg)
     *   Awarded by Publishing House of Electronics Industry (PHEI).
 
-*	[The **Allen B. Dumont Prize**, 2015](https://wangquan.me/files/misc/Allen%20DuMont%20Prize%20-%20Quan.pdf)
+*	[The **Allen B. Dumont Prize**, 2015](resources/Allen_DuMont_Prize_QuanWang.pdf)
     *	This prize is awarded to a graduate student who has demonstrated high scholastic ability and has made a substantial contribution to that field.
 
 ## Publications
@@ -511,7 +514,7 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Other
 
-* [**Senior member** - IEEE](https://wangquan.me/files/misc/IEEE_Senior_Member_Plaque.JPG)
+* [**Senior member** - IEEE](resources/IEEE_Senior_Member_Plaque_QuanWang.jpg)
 * **Session chair** - [Interspeech 2021](https://www.interspeech2021.org/): Language and Accent Recognition
 * **Interviewee** - [Interspeech 2020 Tutorial](http://www.interspeech2020.org/Program/Tutorials/): Neural Models for Speaker Diarization in the Context of Speech Recognition
 
