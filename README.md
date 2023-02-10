@@ -259,7 +259,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 *   [**Distinguished Author** of Year 2020](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/PHEI_Author_Award_QuanWang.jpg)
     *   Awarded by Publishing House of Electronics Industry (PHEI).
 
-*	[The **Allen B. Dumont Prize**, 2015](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/Allen_DuMont_Prize_QuanWang.pdf)
+*	[The **Allen B. Dumont Prize**, 2015](resources/Allen_DuMont_Prize_QuanWang.pdf)
     *	This prize is awarded to a graduate student who has demonstrated high scholastic ability and has made a substantial contribution to that field.
 
 ## Publications
