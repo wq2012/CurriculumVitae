@@ -299,10 +299,12 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
-*   Beltrán Labrador, Guanlong Zhao, Ignacio López Moreno, Angelo Scorza Scarpati, Liam Fowl, **Quan Wang**, "Exploring Sequence-to-Sequence Transformer-Transducer Models for Keyword Spotting", arXiv:2211.06478 [*eess.AS*], 2022.
+*   Tom O’Malley, Shaojin Ding, Arun Narayanan, **Quan Wang**, Rajeev Rikhye, Qiao Liang, Yanzhang He, Ian McGraw, "Conditional Conformer: Improving Speaker Modulation for Single and Multi-User Speech Enhancement", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
+
+*   Beltrán Labrador, Guanlong Zhao, Ignacio López Moreno, Angelo Scorza Scarpati, Liam Fowl, **Quan Wang**, "Exploring Sequence-to-Sequence Transformer-Transducer Models for Keyword Spotting", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 [[PDF](https://arxiv.org/pdf/2211.06478.pdf)]
 
-*   Guanlong Zhao, **Quan Wang**, Han Lu, Yiling Huang, Ignacio Lopez Moreno, "Augmenting Transformer-Transducer Based Speaker Change Detection With Token-Level Training Loss", arXiv:2211.06482 [*eess.AS*], 2022.
+*   Guanlong Zhao, **Quan Wang**, Han Lu, Yiling Huang, Ignacio Lopez Moreno, "Augmenting Transformer-Transducer Based Speaker Change Detection With Token-Level Training Loss", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 [[PDF](https://arxiv.org/pdf/2211.06482.pdf)]
 
 *   **Quan Wang**, Yiling Huang, Han Lu, Guanlong Zhao, Ignacio Lopez Moreno, "Highly Efficient Real-Time Streaming and Fully On-Device Speaker Diarization with Multi-Stage Clustering", arXiv:2210.13690 [*eess.AS*], 2022.
@@ -463,13 +465,15 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Acknowledged by
 
+* Yuma Koizumi, Heiga Zen, Shigeki Karita, Yifan Ding, Kohei Yatabe, Nobuyuki Morioka, Yu Zhang Wei Han Ankur Bapna Michiel Bacchiani, "Miipher: A Robust Speech Restoration Model Integrating Self-Supervised Speech and Text Representations", [cs.SD]. [[demo](https://google.github.io/df-conformer/miipher/index.html)] [[PDF](https://arxiv.org/abs/2303.01664)]
+
 * Ye Jia, Michelle Tadmor Ramanovich, Tal Remez, Roi Pomerantz, "Translatotron 2: Robust direct speech-to-speech translation", arXiv preprint arXiv:2107.08661 [cs.CL]. [[PDF](https://arxiv.org/pdf/2107.08661.pdf)]
 
 *   Soumi Maiti, Hakan Erdogan, Kevin Wilson, Scott Wisdom, Shinji Watanabe, John R. Hershey, "End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings", arXiv:2105.02096 [cs.SD]. [[PDF](https://arxiv.org/pdf/2105.02096.pdf)]
 
 *   ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge Evaluation Plan, 2019. [[PDF](http://www.asvspoof.org/asvspoof2019/asvspoof2019_evaluation_plan.pdf)]
 
-*	Ye Jia, Ron J. Weiss, Fadi Biadsy, Wolfgang Macherey, Melvin Johnson, Zhifeng Chen, Yonghui Wu, "Direct speech-to-speech translation with a sequence-to-sequence model", arXiv:1904.06037 [*cs.CL*].
+*	Ye Jia, Ron J. Weiss, Fadi Biadsy, Wolfgang Macherey, Melvin Johnson, Zhifeng Chen, Yonghui Wu, "Direct speech-to-speech translation with a sequence-to-sequence model", arXiv:1904.06037 [cs.CL].
 [[PDF](https://arxiv.org/pdf/1904.06037.pdf)]
 
 *   Aonan Zhang, "Composing Deep Learning and Bayesian Nonparametric Methods", Ph.D. Dissertation, 2019. [[PDF](https://academiccommons.columbia.edu/doi/10.7916/d8-wz1q-6892)]
