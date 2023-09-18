@@ -301,6 +301,10 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+*   Guanlong Zhao, Yongqiang Wang, Jason Pelecanos, Yu Zhang, Hank Liao, Yiling Huang, Han Lu, **Quan Wang**, "USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models", 2023. [[PDF](https://arxiv.org/pdf/2309.08023.pdf)]
+
+*   Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network", 2023. [[PDF](https://arxiv.org/pdf/2309.08489.pdf)]
+
 *   Tom O’Malley, Shaojin Ding, Arun Narayanan, **Quan Wang**, Rajeev Rikhye, Qiao Liang, Yanzhang He, Ian McGraw, "Conditional Conformer: Improving Speaker Modulation for Single and Multi-User Speech Enhancement", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 
 *   Beltrán Labrador, Guanlong Zhao, Ignacio López Moreno, Angelo Scorza Scarpati, Liam Fowl, **Quan Wang**, "Exploring Sequence-to-Sequence Transformer-Transducer Models for Keyword Spotting", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
