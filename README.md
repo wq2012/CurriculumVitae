@@ -47,7 +47,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Book on Voice Identity Techniques: [[博文视点](https://mp.weixin.qq.com/s/ZjmzLRxxUbLwLSIH4u3X5g)] [[语音杂谈](https://mp.weixin.qq.com/s/xwjMlWeZO3azVw0TpwVfMw)] [[机器之心](https://mp.weixin.qq.com/s/iQtHFi34uKTGfvWVOl8adw)] [[载思考](https://mp.weixin.qq.com/s/ZFBFM9FtcDqTSOYGttDDxw)] [[声纹圈](https://mp.weixin.qq.com/s/lYt0Teg_Pj4ponN-Jd-AXg)]
 
-* On-device multilingual speech recognition for Pixel 8: [[The Verge](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup/archives/2)] [[TechCrunch](https://techcrunch.com/2023/10/04/google-assistant-gets-a-host-of-upgrades-on-the-pixel-8-and-pixel-8-pro/)] [[Android Authority](https://www.androidauthority.com/google-pixel-8-ai-features-3371529/)]
+* On-device multilingual speech recognition for Pixel 8: [[The Verge](https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup/archives/2)] [[TechCrunch](https://techcrunch.com/2023/10/04/google-assistant-gets-a-host-of-upgrades-on-the-pixel-8-and-pixel-8-pro/)] [[Android Authority](https://www.androidauthority.com/google-pixel-8-ai-features-3371529/)] [[9to5Google](https://9to5google.com/2023/10/04/google-assistant-pixel-8/)]
 
 * Speaker label for Recorder app:
     * Official: [[Google AI Blog](https://ai.googleblog.com/2022/12/who-said-what-recorders-on-device.html)] [[Google AI Official tweet](https://twitter.com/GoogleAI/status/1603138933386199040)]
@@ -306,6 +306,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 *   Guanlong Zhao, Yongqiang Wang, Jason Pelecanos, Yu Zhang, Hank Liao, Yiling Huang, Han Lu, **Quan Wang**, "USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models", 2023. [[PDF](https://arxiv.org/pdf/2309.08023.pdf)]
 
 *   Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network", 2023. [[PDF](https://arxiv.org/pdf/2309.08489.pdf)]
+
+*  Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, **Quan Wang**, Shaan Bijwadia, "Improved long-form speech recognition by jointly modeling the primary and non-primary speakers", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023.
 
 *   Tom O’Malley, Shaojin Ding, Arun Narayanan, **Quan Wang**, Rajeev Rikhye, Qiao Liang, Yanzhang He, Ian McGraw, "Conditional Conformer: Improving Speaker Modulation for Single and Multi-User Speech Enhancement", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 
