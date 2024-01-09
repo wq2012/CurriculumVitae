@@ -303,6 +303,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+*   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)]
+
 *   Beltrán Labrador, Pai Zhu, Guanlong Zhao, Angelo Scorza Scarpati, **Quan Wang**, Alicia Lozano-Diez, Alex Park, Ignacio López Moreno, "Personalizing Keyword Spotting with Speaker Information", 2023. [[PDF](https://arxiv.org/pdf/2311.03419.pdf)]
 
 *   Guanlong Zhao, Yongqiang Wang, Jason Pelecanos, Yu Zhang, Hank Liao, Yiling Huang, Han Lu, **Quan Wang**, "USM-SCD: Multilingual Speaker Change Detection Based on Large Pretrained Foundation Models", 2023. [[PDF](https://arxiv.org/pdf/2309.08023.pdf)]
