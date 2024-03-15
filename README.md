@@ -267,6 +267,9 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ## Awards
 
+* [2024 AI 2000 Most Influential Scholar Honorable Mention](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/AMiner_2024_Most_Influential_Scholar.png)
+    *   Awarded by AMiner.org in recognition of outstanding and vibrant contributions in the field of Speech Recognition between 2014-2023.
+
 * [Annual Best Content Contribution Award, 2022](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/CircleOfVoiceprint_Best_Content_QuanWang.jpg)
     *   Awarded by The Circle of Voiceprint
 
