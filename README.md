@@ -291,6 +291,11 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Journal Publications
 
+*   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", Journal of Systems and Software, Volume 216, 2024. 
+[[link](https://authors.elsevier.com/a/1jFwPbKHpGRYB)]
+[[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
+[[software](https://www.mathworks.com/matlabcentral/fileexchange/38358-active-geometric-shape-models)]
+
 *	**Quan Wang**, Kim L. Boyer, "The active geometric shape model: A new robust deformable shape model and its applications", Computer Vision and Image Understanding, Volume 116, Issue 12, December 2012, Pages 1178-1194, ISSN 1077-3142, doi:10.1016/j.cviu.2012.08.004.
 [[link](https://www.sciencedirect.com/science/article/pii/S1077314212001154?via%3Dihub)]
 [[PDF](https://github.com/wq2012/AGSM/blob/master/documentation/AGSM_CVIU_2012.pdf)]
@@ -306,7 +311,9 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
-*   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)]
+*   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", Interspeech, 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)]
+
+* Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "On the Success and Limitations of Auxiliary Network Based Word-Level End-to-End Neural Speaker Diarization", Interspeech, 2024.
 
 *   Beltrán Labrador, Pai Zhu, Guanlong Zhao, Angelo Scorza Scarpati, **Quan Wang**, Alicia Lozano-Diez, Alex Park, Ignacio López Moreno, "Personalizing Keyword Spotting with Speaker Information", 2023. [[PDF](https://arxiv.org/pdf/2311.03419.pdf)]
 
@@ -365,9 +372,6 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 *  **Quan Wang**, Ignacio Lopez Moreno, Mert Saglam, Kevin Wilson, Alan Chiao, Renjie Liu, Yanzhang He, Wei Li, Jason Pelecanos, Marily Nika, Alexander Gruenstein, "VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device Speech Recognition", Interspeech, 2020. [[PDF](https://arxiv.org/pdf/2009.04323.pdf)]
 [[website](https://google.github.io/speaker-id/publications/VoiceFilter-Lite/)] [[Google AI Blog](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html)]
-
-*   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", arXiv:2007.12069 [*eess.AS*], 2020.
-[[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
 
 *	Shaojin Ding, **Quan Wang**, Shuo-yiin Chang, Li Wan, Ignacio Lopez Moreno, "Personal VAD: Speaker-Conditioned Voice Activity Detection", Odyssey: The Speaker and Language Recognition Workshop, 2020.
 [[PDF](https://www.isca-speech.org/archive/Odyssey_2020/pdfs/2.pdf)]
