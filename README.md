@@ -291,7 +291,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Journal Publications
 
-*   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", Journal of Systems and Software, Volume 216, 2024. 
+*   **Quan Wang**, Ignacio Lopez Moreno, "Version Control of Speaker Recognition Systems", Journal of Systems and Software, Volume 216, 2024.
 [[link](https://authors.elsevier.com/a/1jFwPbKHpGRYB)]
 [[PDF](https://arxiv.org/pdf/2007.12069.pdf)]
 [[software](https://www.mathworks.com/matlabcentral/fileexchange/38358-active-geometric-shape-models)]
@@ -536,7 +536,8 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 
 ### Reviewing
 
-*    IEEE Spoken Language Technology Workshop (SLT), 2021
+Journals:
+*   [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
 *   [IEEE Signal Processing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97)
 *   [IEEE Transactions on Audio, Speech and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing)
 *   [Computer Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language)
@@ -544,10 +545,14 @@ Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recogniti
 *	[Artificial Intelligence Review](https://link.springer.com/journal/10462)
 *   [Journal of Signal Processing Systems](https://link.springer.com/journal/11265)
 *	[Computer Communication & Collaboration](http://www.bapress.ca/ccc.php)
+
+Conferences:
+
+*    IEEE Spoken Language Technology Workshop (SLT), 2021
+*   International Joint Conference on Artificial Intelligence (IJCAI) 2019
+*	VISAPP International Conference on Computer Vision Theory and Applications 2014
 *	SIBGRAPI Conference on Graphics, Patterns, and Images 2013
 *	SIBGRAPI Conference on Graphics, Patterns, and Images 2014
-*	VISAPP International Conference on Computer Vision Theory and Applications 2014
-*   International Joint Conference on Artificial Intelligence (IJCAI) 2019
 
 ### Other
 
