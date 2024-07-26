@@ -311,6 +311,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
+* Pai Zhu, Dhruuv Agarwal, Jacob W. Bartel, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments", 2024. [[PDF](https://arxiv.org/abs/2407.16840)]
+
 *   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", Interspeech, 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)]
 
 * Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "On the Success and Limitations of Auxiliary Network Based Word-Level End-to-End Neural Speaker Diarization", Interspeech, 2024.
