@@ -313,7 +313,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Pai Zhu, Dhruuv Agarwal, Jacob W. Bartel, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments", 2024. [[PDF](https://arxiv.org/abs/2407.16840)]
 
-*   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", Interspeech, 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)]
+*   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", Interspeech, 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)] [[model](https://huggingface.co/google/DiarizationLM-8b-Fisher-v2)] [[demo](https://huggingface.co/spaces/diarizers-community/DiarizationLM-GGUF)]
 
 * Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "On the Success and Limitations of Auxiliary Network Based Word-Level End-to-End Neural Speaker Diarization", Interspeech, 2024.
 
@@ -344,7 +344,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 [[PDF](https://arxiv.org/pdf/2203.05642.pdf)]
 
 * **Quan Wang**, Yang Yu, Jason Pelecanos, Yiling Huang, Ignacio Lopez Moreno, "Attentive Temporal Pooling for Conformer-based Streaming Language Identification in Long-form Speech", Odyssey: The Speaker and Language Recognition Workshop, 2022.
-[[PDF](https://arxiv.org/pdf/2202.12163.pdf)]
+[[PDF](https://arxiv.org/pdf/2202.12163.pdf)] [[model](https://huggingface.co/tflite-hub/conformer-lang-id)] [[demo](https://huggingface.co/spaces/tflite-hub/lang-id-demo)]
 
 * Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ian McGraw, "Closing the Gap between Single-User and Multi-User VoiceFilter-Lite", Odyssey: The Speaker and Language Recognition Workshop, 2022.
 [[PDF](https://arxiv.org/pdf/2202.12169.pdf)]
@@ -363,7 +363,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 * Rajeev Rikhye, **Quan Wang**, Qiao Liang, Yanzhang He, Ding Zhao, Yiteng (Arden) Huang, Arun Narayanan, Ian McGraw, "Personalized Keyphrase Detection using Speaker and Environment Information", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.13970.pdf)]
 
-* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)]
+* Roza Chojnacka, Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.02125.pdf)] [[model](https://huggingface.co/tflite-hub/conformer-speaker-encoder)] [[demo](https://huggingface.co/spaces/tflite-hub/speaker-id-demo)]
 
 * Jason Pelecanos, **Quan Wang**, Ignacio Lopez Moreno, "Dr-Vectors: Decision Residual Networks and an Improved Loss for Speaker Recognition", Interspeech, 2021. [[PDF](https://arxiv.org/pdf/2104.01989.pdf)]
 
