@@ -311,7 +311,11 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Conference Publications
 
-* Pai Zhu, Dhruuv Agarwal, Jacob W. Bartel, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments", 2024. [[PDF](https://arxiv.org/abs/2407.16840)]
+* Hyun Jin Park, Dhruuv Agarwal, Neng Chen, Rentao Sun, Kurt Partridge, Justin Chen, Harry Zhang, Pai Zhu, Jacob Bartel, Kyle Kastner, Gary Wang, Andrew Rosenberg, **Quan Wang**, "Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting", SynData4GenAI Workshop, 2024. [[PDF](https://arxiv.org/abs/2408.10463)]
+
+* Hyun Jin Park, Dhruuv Agarwal, Neng Chen, Rentao Sun, Kurt Partridge, Justin Chen, Harry Zhang, Pai Zhu, Jacob Bartel, Kyle Kastner, Gary Wang, Andrew Rosenberg, **Quan Wang**, "Utilizing TTS Synthesized Data for Efficient Development of Keyword Spotting Model", SynData4GenAI Workshop, 2024. [[PDF](https://arxiv.org/abs/2407.18879)]
+
+* Pai Zhu, Dhruuv Agarwal, Jacob W. Bartel, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments", SynData4GenAI Workshop, 2024. [[PDF](https://arxiv.org/abs/2407.16840)]
 
 *   **Quan Wang**, Yiling Huang, Guanlong Zhao, Evan Clark, Wei Xia, Hank Liao, "DiarizationLM: Speaker Diarization Post-Processing with Large Language Models", Interspeech, 2024. [[PDF](https://arxiv.org/pdf/2401.03506.pdf)] [[model](https://huggingface.co/google/DiarizationLM-8b-Fisher-v2)] [[demo](https://huggingface.co/spaces/diarizers-community/DiarizationLM-GGUF)]
 
