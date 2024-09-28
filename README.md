@@ -330,7 +330,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 *   Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network", 2023. [[PDF](https://arxiv.org/pdf/2309.08489.pdf)]
 
-*  Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, **Quan Wang**, Shaan Bijwadia, "Improved long-form speech recognition by jointly modeling the primary and non-primary speakers", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023. [[PDF](https://arxiv.org/pdf/2312.11123.pdf)]
+*  Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, **Quan Wang**, Shaan Bijwadia, "Improved long-form speech recognition by jointly modeling the primary and non-primary speakers", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023. [[PDF](https://arxiv.org/pdf/2312.11123.pdf)] [[Best paper finalist](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/ASRU_2023_top_papers.png)]
 
 *   Tom O’Malley, Shaojin Ding, Arun Narayanan, **Quan Wang**, Rajeev Rikhye, Qiao Liang, Yanzhang He, Ian McGraw, "Conditional Conformer: Improving Speaker Modulation for Single and Multi-User Speech Enhancement", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 
