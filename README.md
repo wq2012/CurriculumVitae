@@ -270,7 +270,7 @@ I lead the **Speaker, Voice & Language** team at Google.
 * [2024 AI 2000 Most Influential Scholar Honorable Mention](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/AMiner_2024_Most_Influential_Scholar.png)
     *   Awarded by AMiner.org in recognition of outstanding and vibrant contributions in the field of Speech Recognition between 2014-2023.
 
-* ASRU 2023 Best Paper Finalist (top 3% paper, 12/435)
+* [ASRU 2023 Best Paper Finalist](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/ASRU_2023_top_papers.png) (top 3% paper, 12/435)
     *   For the paper "Improved long-form speech recognition by jointly modeling the primary and non-primary speakers".
 
 * [Annual Best Content Contribution Award, 2022](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/CircleOfVoiceprint_Best_Content_QuanWang.jpg)
