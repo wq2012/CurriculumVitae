@@ -464,6 +464,8 @@ I lead the **Speaker, Voice & Language** team at Google.
 
 ### Technical Reports and Theses
 
+*   Gemini Team, "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context", 2024. [[PDF](https://arxiv.org/abs/2403.05530)]
+
 *   Jin Shi, **Quan Wang**, Yeming Fang, Gang Feng, Zhengying Chen, Jason Pelecanos, Ignacio Lopez Moreno,
 Andrea Chu, Pedro Moreno Mengibar, "Utterance Augmentation for Speaker Recognition", Technical Disclosure Commons, Defensive Publications Series, 2020.
 [[link](https://www.tdcommons.org/dpubs_series/3238/)]
