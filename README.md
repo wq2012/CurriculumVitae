@@ -4,7 +4,7 @@
 | Current Occupation| Contact|
 |-------------------|--------|
 | Senior Staff Software Engineer & Tech Lead Manager | Email: [quanrpi@gmail.com](mailto:quanrpi@gmail.com) |
-| Google LLC | Web: [wangquan.me](https://wangquan.me/) |
+| Google DeepMind | Web: [wangquan.me](https://wangquan.me/) |
 | New York, NY | LinkedIn: [www.linkedin.com/in/wangquan](https://www.linkedin.com/in/wangquan/) |
 
 ## News
@@ -27,21 +27,24 @@
 
 ## Research Interests
 
-I lead the **Speaker, Voice & Language** team at Google.
+I lead the **Hotword Modeling** team and the **Speaker, Voice & Language** team at Google DeepMind.
 
 ### Recent
-*	Speaker recognition and diarization
-*   Language recognition
-*	Source separation and speech enhancement
-*	Text-to-speech synthesis
-*	Deep learning
+
+* Keyword spotting
+* Speaker recognition
+* Speaker turn detection and speaker diarization
+* Language recognition
+* Source separation and speech enhancement
 
 ### Previous
-*	Learning-based font loading (MLFont)
-*	Optical character recognition
-*	Biomedical image analysis (mainly 2D and 3D segmentation)
-*	Geometric models, shape models, and face models
-*	Occupancy sensing and reconstruction for smart lighting
+
+* Text-to-speech synthesis
+* Learning-based font loading (MLFont)
+* Optical character recognition
+* Biomedical image analysis (mainly 2D and 3D segmentation)
+* Geometric models, shape models, and face models
+* Occupancy sensing and reconstruction for smart lighting
 
 ## Media Coverage
 
