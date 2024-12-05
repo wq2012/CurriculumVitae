@@ -270,7 +270,7 @@ I lead the **Hotword Modeling** team and the **Speaker, Voice & Language** team 
 
 ## Awards
 
-* SLT 2024 Best Paper Finalists (top 2% paper, 9/373 submitted, 9/170 accepted)
+* SLT 2024 Best Paper Finalist (top 2% paper, 9/373 submitted, 9/170 accepted)
     *   For the paper "GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting".
 
 * [2024 AI 2000 Most Influential Scholar Honorable Mention](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/AMiner_2024_Most_Influential_Scholar.png)
@@ -320,7 +320,7 @@ I lead the **Hotword Modeling** team and the **Speaker, Voice & Language** team 
 
 ### Conference Publications
 
-* Pai Zhu, Jacob W. Bartel, Dhruuv Agarwal, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting", IEEE Spoken Language Technology Workshop (SLT), 2024. [[PDF](https://arxiv.org/pdf/2410.16647)] [**Best Paper Finalists**]
+* Pai Zhu, Jacob W. Bartel, Dhruuv Agarwal, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting", IEEE Spoken Language Technology Workshop (SLT), 2024. [[PDF](https://arxiv.org/pdf/2410.16647)] [**Best Paper Finalist**]
 
 * Hyun Jin Park, Dhruuv Agarwal, Neng Chen, Rentao Sun, Kurt Partridge, Justin Chen, Harry Zhang, Pai Zhu, Jacob Bartel, Kyle Kastner, Gary Wang, Andrew Rosenberg, **Quan Wang**, "Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting", SynData4GenAI Workshop, 2024. [[PDF](https://arxiv.org/abs/2408.10463)]
 
@@ -338,7 +338,7 @@ I lead the **Hotword Modeling** team and the **Speaker, Voice & Language** team 
 
 *   Yiling Huang, Weiran Wang, Guanlong Zhao, Hank Liao, Wei Xia, **Quan Wang**, "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network", 2023. [[PDF](https://arxiv.org/pdf/2309.08489.pdf)]
 
-*  Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, **Quan Wang**, Shaan Bijwadia, "Improved long-form speech recognition by jointly modeling the primary and non-primary speakers", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023. [[PDF](https://arxiv.org/pdf/2312.11123.pdf)] [[**Best Paper Finalists**](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/ASRU_2023_top_papers.png)]
+*  Guru Prakash Arumugam, Shuo-yiin Chang, Tara N. Sainath, Rohit Prabhavalkar, **Quan Wang**, Shaan Bijwadia, "Improved long-form speech recognition by jointly modeling the primary and non-primary speakers", IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2023. [[PDF](https://arxiv.org/pdf/2312.11123.pdf)] [[**Best Paper Finalist**](https://raw.githubusercontent.com/wq2012/CurriculumVitae/master/resources/ASRU_2023_top_papers.png)]
 
 *   Tom O’Malley, Shaojin Ding, Arun Narayanan, **Quan Wang**, Rajeev Rikhye, Qiao Liang, Yanzhang He, Ian McGraw, "Conditional Conformer: Improving Speaker Modulation for Single and Multi-User Speech Enhancement", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023.
 
