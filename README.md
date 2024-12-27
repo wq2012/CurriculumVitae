@@ -20,6 +20,7 @@
 * [Education](#education)
 * [Work Experience](#work-experience)
 * [Awards](#awards)
+* [Invited Talks](#invited-talks)
 * [Publications](#publications)
 * [Patents](#patents)
 * [Academic Service](#academic-service)
@@ -289,6 +290,17 @@ I lead the **Hotword Modeling** team and the **Speaker, Voice & Language** team 
 
 *	[The **Allen B. Dumont Prize**, 2015](resources/Allen_DuMont_Prize_QuanWang.pdf)
     *	This prize is awarded to a graduate student who has demonstrated high scholastic ability and has made a substantial contribution to that field.
+
+## Invited talks
+
+* Keynote talk at [Speech and Audio in the Northeast (SANE) 2024](https://www.saneworkshop.org/sane2024/)
+  * "Speaker diarization at Google: From modularized systems to LLMs" [[YouTube](https://www.youtube.com/watch?v=pO6dfo4BSyk&ab_channel=SpeechandAudiointheNortheast%28SANE%29)] [[Slides](https://drive.google.com/file/d/1IlMnZYPTnZ6R1YkkPUnoN0JfeoMv7QIu/view)]
+
+* Invited talk at [MIT CSAIL](https://www.csail.mit.edu/), 2024
+  * "Advances in Speaker Diarization at Google"
+
+* [Summit of Top 100 Global Software Case Studies](https://www.top100summit.com/), 2021
+  * "Building the Product Ecosystem for Voice and Language Recognition" (声纹与语种识别的产品生态构建)
 
 ## Publications
 
