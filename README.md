@@ -567,7 +567,8 @@ Journals:
 
 Conferences:
 
-*    IEEE Spoken Language Technology Workshop (SLT), 2021
+*   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025
+*   IEEE Spoken Language Technology Workshop (SLT), 2021, 2022
 *   International Joint Conference on Artificial Intelligence (IJCAI) 2019
 *	VISAPP International Conference on Computer Vision Theory and Applications 2014
 *	SIBGRAPI Conference on Graphics, Patterns, and Images 2013
