@@ -28,7 +28,7 @@
 
 ## Current Role
 
-Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Language** team at Google DeepMind. The team delivers on-device machine learning models enabling "Hey Google" spoken keyword spotting, voice match, language recognition, speech enhancement, and speaker diarization capabilities on billions of Androids phones, tablets, Chromebooks, cars, and wearable devices across the globe. The team builds speaker recognition, speaker diarization, and multilingual speech recognition solutions for billions of users of Google Search, YouTube, Google Cloud and Google Assistant.
+Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Language** team at Google DeepMind. The teams deliver a diverse set of server-side and on-device speech models to Google's product ecosystem, including "Hey Google" spoken keyword spotting, voice match, language recognition, spoofed speech detection, speech enhancement, speaker diarization, and multilingual speech recognition. The server-side models power numerous speech features in Google Search, YouTube, Google Cloud, and Google Assistant, used by billions. The on-device models are deployed on billions of Android phones, tablets, Chromebooks, cars, and wearables across the globe.
 
 ## Media Coverage
 
