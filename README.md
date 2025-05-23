@@ -315,6 +315,8 @@ Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Lan
 
 ### Conference Publications
 
+* Harry Zhang, Kurt Partridge, Pai Zhu, Neng Chen, Hyun Jin Park, Dhruuv Agarwal, **Quan Wang**, "GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples", Interspeech, 2025. [[PDF](https://arxiv.org/abs/2505.14814)]
+
 * Pai Zhu, Jacob W. Bartel, Dhruuv Agarwal, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting", IEEE Spoken Language Technology Workshop (SLT), 2024. [[PDF](https://arxiv.org/pdf/2410.16647)] [**Best Paper Finalist**]
 
 * Hyun Jin Park, Dhruuv Agarwal, Neng Chen, Rentao Sun, Kurt Partridge, Justin Chen, Harry Zhang, Pai Zhu, Jacob Bartel, Kyle Kastner, Gary Wang, Andrew Rosenberg, **Quan Wang**, "Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting", SynData4GenAI Workshop, 2024. [[PDF](https://arxiv.org/abs/2408.10463)]
@@ -453,7 +455,7 @@ Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Lan
 [[PDF](https://github.com/wq2012/COSBOS/blob/master/Papers/ERC_ICPR_2014.pdf)]
 
 *	**Quan Wang**, Kim L. Boyer, "Feature Learning by Multidimensional Scaling and its Applications in Object Recognition", 26th SIBGRAPI Conference on Graphics, Patterns and Images (Sibgrapi). IEEE, 2013. (ORAL)
-[[PDF]https://github.com/wq2012/SimpleMatrix/blob/master/documentation/MDS_SIBGRAPI_2013.pdf)]
+[[PDF](https://github.com/wq2012/SimpleMatrix/blob/master/documentation/MDS_SIBGRAPI_2013.pdf)]
 [[slides](https://wangquan.me/files/research/MDS_feature_learning_slides.pdf)]
 [[software](https://www.mathworks.com/matlabcentral/fileexchange/42261-efficient-multidimensional-scaling-mds)]
 
@@ -562,12 +564,13 @@ Journals:
 
 Conferences:
 
+*   NeurIPS, 2025
+*   Interspeech, 2025
 *   IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025
 *   IEEE Spoken Language Technology Workshop (SLT), 2021, 2022
 *   International Joint Conference on Artificial Intelligence (IJCAI) 2019
 *	VISAPP International Conference on Computer Vision Theory and Applications 2014
-*	SIBGRAPI Conference on Graphics, Patterns, and Images 2013
-*	SIBGRAPI Conference on Graphics, Patterns, and Images 2014
+*	SIBGRAPI Conference on Graphics, Patterns, and Images 2013-2014
 
 ### Other
 
