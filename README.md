@@ -315,6 +315,8 @@ Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Lan
 
 ### Conference Publications
 
+* Pai Zhu, **Quan Wang**, Dhruuv Agarwal, Kurt Partridge, "LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting", Interspeech, 2025. [[PDF](https://arxiv.org/abs/2505.22995)]
+
 * Harry Zhang, Kurt Partridge, Pai Zhu, Neng Chen, Hyun Jin Park, Dhruuv Agarwal, **Quan Wang**, "GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples", Interspeech, 2025. [[PDF](https://arxiv.org/abs/2505.14814)]
 
 * Pai Zhu, Jacob W. Bartel, Dhruuv Agarwal, Kurt Partridge, Hyun Jin Park, **Quan Wang**, "GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting", IEEE Spoken Language Technology Workshop (SLT), 2024. [[PDF](https://arxiv.org/pdf/2410.16647)] [**Best Paper Finalist**]
