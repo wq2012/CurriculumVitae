@@ -227,8 +227,8 @@ Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Lan
 
 ## Work Experience
 
-*	2015/11 – Current, *Senior Staff Software Engineer* and *Tech Lead Manager*, **Google**, New York City, NY, USA
-    *	Manager: Dr. Ignacio Lopez Moreno
+*	2015/11 – Current, *Senior Staff Software Engineer* and *Tech Lead Manager*, **Google DeepMind**, New York City, NY, USA
+    *	Manager: Bhuvana Ramabhadran
     *	"OK Google" voice search & actions
     *	Speaker identification and speaker diarization
     *   Language recognition and diarization
