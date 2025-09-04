@@ -584,7 +584,7 @@ Conferences:
 
 ### Online Courses
 
-* Udemy (English): [Speaker Recognition | By Award Winning Textbook Author](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A)
+* Udemy (English): [Speaker Recognition - By Award Winning Textbook Author](https://www.udemy.com/course/speaker-recognition/?referralCode=1914766AF241CE15D19A)
 * Udemy (English): [A Tutorial on Speaker Diarization
 ](https://www.udemy.com/course/diarization/?referralCode=21D7CC0AEABB7FE3680F)
 * 机器之心 (Chinese): [声纹识别：从理论到编程实战](https://jmq.xet.tech/s/4j70ZU)
