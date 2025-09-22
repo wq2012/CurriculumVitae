@@ -321,6 +321,7 @@ Dr. Quan Wang leads the **Hotword Modeling** team and the **Speaker, Voice & Lan
 
 ### Conference Publications
 
+* Dhruuv Agarwal, Harry Zhang, Yang Yu, **Quan Wang**, "State-of-the-Art Dysarthric Speech Recognition with MetaICL for on-the-fly Personalization", submitted. [[PDF](https://arxiv.org/abs/2509.15516)]
 * Pai Zhu, **Quan Wang**, Dhruuv Agarwal, Kurt Partridge, "LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting", Interspeech, 2025. [[PDF](https://arxiv.org/abs/2505.22995)]
 
 * Harry Zhang, Kurt Partridge, Pai Zhu, Neng Chen, Hyun Jin Park, Dhruuv Agarwal, **Quan Wang**, "GraphemeAug: A Systematic Approach to Synthesized Hard Negative Keyword Spotting Examples", Interspeech, 2025. [[PDF](https://arxiv.org/abs/2505.14814)]
